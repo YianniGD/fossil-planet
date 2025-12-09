@@ -132,6 +132,9 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
     }, []);
 
     const handleXRayPointerDown = (e) => {
+        if (e.target.closest('[onclick]')) {
+            return;
+        }
         e.preventDefault();
         setIsDragging(true);
         if (audioRef.current && userHasInteracted.current) {
@@ -365,17 +368,21 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
     }
 
     return (
-        <div className={`species-page ${subcategoryClassName}`} style={{
-            padding: '28px',
-            height: '100vh',
-            boxSizing: 'border-box',
-            overflow: 'hidden',
-            fontSize: '18px',
-            lineHeight: 1.4,
-            backgroundImage: `url(${import.meta.env.BASE_URL}images/Bg.webp)`,
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-        }}>
+        <div
+            className={`species-page ${subcategoryClassName}`}
+            onPointerDown={handleXRayPointerDown}
+            style={{
+                padding: '28px',
+                height: '100vh',
+                boxSizing: 'border-box',
+                overflow: 'hidden',
+                fontSize: '18px',
+                lineHeight: 1.4,
+                backgroundImage: `url(${import.meta.env.BASE_URL}images/Bg.webp)`,
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
+            }}
+        >
         <div className="species-page-frame">
                 {frameImages.map((img, index) => (
                     <div key={index} style={{ position: 'absolute', ...img.style }}>
@@ -449,7 +456,7 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
                 <div style={{ textAlign: 'right', marginBottom: '1rem' }}>
                     <p style={{ fontSize: '1rem', fontFamily: '"BBH Sans Hegarty", sans-serif', textTransform: 'uppercase', color: 'white', margin: 0 }}>
                         Want a deeper look?<br/>
-                        Click and hold the X-Ray icon!
+                        Click and hold anywhere to reveal an X-Ray view!
                     </p>
                 </div>
 
@@ -515,21 +522,7 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
 
 
                     </div>
-                    <img 
-                        src={import.meta.env.BASE_URL + "ui/xray icon.svg"} 
-                        alt="X-Ray trigger"
-                        onPointerDown={handleXRayPointerDown}
-                        onPointerCancel={handleXRayPointerUp}
-                        style={{
-                            position: 'absolute',
-                            bottom: '20px',
-                            left: '20px',
-                            width: '80px',
-                            height: '80px',
-                            cursor: 'pointer',
-                            zIndex: 10
-                        }}
-                    />
+
                 </div>
             </div>
         </div>
