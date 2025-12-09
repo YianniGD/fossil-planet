@@ -1,0 +1,675 @@
+[
+  {
+    "primary": "Prehistoric Amphibians",
+    "subcategories": [
+      {
+        "subcategory": "Early Amphibians",
+        "species": [
+          "Acanthostega",
+          "Cacops",
+          "Crassigyrinus",
+          "Eogyrinus",
+          "Eryops",
+          "Gerrothorax",
+          "Greererpeton",
+          "Ichthyostega",
+          "Paracyclotosaurus",
+          "Peltobatrachus",
+          "Platyhystrix",
+          "Seymouria"
+        ]
+      },
+      {
+        "subcategory": "Early Frogs",
+        "species": [
+          "Diplocaulus",
+          "Karaurus",
+          "Keraterpeton",
+          "Ophiderpeton",
+          "Palaeobatrachus",
+          "Pantylus",
+          "Triadobatrachus",
+          "Vieraella"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Early Carnivores",
+    "subcategories": [
+      {
+        "subcategory": "Giant Predators",
+        "species": [
+          "Acrocanthosaurus",
+          "Albertosaurus",
+          "Alioramus",
+          "Allosaurus",
+          "Baryonyx",
+          "Carcharodontosaurus",
+          "Ceratosaurus",
+          "Daspletosaurus",
+          "Dilophosaurus",
+          "Eustreptospondylus",
+          "Giganotosaurus",
+          "Megalosaurus",
+          "Spinosaurus",
+          "Tarbosaurus",
+          "Teratosaurus",
+          "Tyrannosaurus"
+        ]
+      },
+      {
+        "subcategory": "Small Carnivores",
+        "species": [
+          "Coelophysis",
+          "Coelurus",
+          "Compsognathus",
+          "Dromiceiomimus",
+          "Elaphrosaurus",
+          "Gallimimus",
+          "Ornitholestes",
+          "Ornithomimus",
+          "Oviraptor",
+          "Procompsognathus",
+          "Saltopus"
+        ]
+      },
+      {
+        "subcategory": "Agile Hunters",
+        "species": [
+          "Deinonychus",
+          "Dromaeosaurus",
+          "Saurornithoides",
+          "Saurornitholestes",
+          "Stenonychosaurus",
+          "Velociraptor"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Birds",
+    "subcategories": [
+      {
+        "subcategory": "Early & Flightless Birds",
+        "species": [
+          "Aepyornis",
+          "Archaeopteryx",
+          "Dinornis",
+          "Dodo",
+          "Emeus",
+          "Harpagornis",
+          "Hesperornis",
+          "Ichthyornis"
+        ]
+      },
+      {
+        "subcategory": "Water & Land Birds",
+        "species": [
+          "Argentavis",
+          "Diatryma",
+          "Great Auk",
+          "Limnofregata",
+          "Neocathartes",
+          "Osteodontornis",
+          "Palaelodus",
+          "Phorusrhacus",
+          "Presbyornis"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Long-Necked Giants",
+    "subcategories": [
+      {
+        "subcategory": "Famous North American Sauropods",
+        "species": [
+          "Alamosaurus",
+          "Amphicoelias",
+          "Apatosaurus",
+          "Argentinosaurus",
+          "Brachiosaurus",
+          "Camarasaurus",
+          "Diplodocus",
+          "Supersaurus"
+        ]
+      },
+      {
+        "subcategory": "Prosauropods",
+        "species": [
+          "Barapasaurus",
+          "Cetiosaurus",
+          "Euhelopus"
+        ]
+      },
+      {
+        "subcategory": "Pliosaurs",
+        "species": [
+          "Kronosaurus",
+          "Liopleurodon",
+          "Peloneustes",
+          "Pliosaurus"
+        ]
+      },
+      {
+        "subcategory": "Sauropods with Special Features",
+        "species": [
+          "Dicraeosaurus",
+          "Mamenchisaurus",
+          "Opisthocoelicaudia",
+          "Saltasaurus"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "The First Mammals",
+    "subcategories": [
+      {
+        "subcategory": "Primitive Mammals: Early Ancestors",
+        "species": [
+          "Alphadon",
+          "Crusafontia",
+          "Haramiyia",
+          "Megazostrodon",
+          "Ptilodus",
+          "Purgatorius",
+          "Zalambdalestes"
+        ]
+      },
+      {
+        "subcategory": "Synapsids",
+        "species": [
+          "Archaeothyris",
+          "Casea",
+          "Dimetrodon",
+          "Edaphosaurus",
+          "Ophiacodon",
+          "Sphenacodon",
+          "Varanosaurus"
+        ]
+      },
+      {
+        "subcategory": "Therapsid Carnivores",
+        "species": [
+          "Arctops",
+          "Cynognathus",
+          "Ericiolacerta",
+          "Lycaenops",
+          "Massetognathus",
+          "Oligokyphus",
+          "Phthinosuchus",
+          "Procynosuchus",
+          "Thrinaxodon",
+          "Titanosuchus"
+        ]
+      },
+      {
+        "subcategory": "Therapsid Herbivores",
+        "species": [
+          "Cotylorhynchus",
+          "Dicynodon",
+          "Kannemeyeria",
+          "Lystrosaurus",
+          "Moschops",
+          "Robertia"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Early Plant-Eaters",
+    "subcategories": [
+      {
+        "subcategory": "Prosauropods",
+        "species": [
+          "Anchisaurus",
+          "Efraasia",
+          "Massospondylus",
+          "Mussaurus",
+          "Plateosaurus",
+          "Riojasaurus",
+          "Thecodontosaurus"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Armored Dinosaurs",
+    "subcategories": [
+      {
+        "subcategory": "Ankylosaurs",
+        "species": [
+          "Ankylosaurus",
+          "Euoplocephalus",
+          "Saichania",
+          "Talarurus"
+        ]
+      },
+      {
+        "subcategory": "Nodosaurids",
+        "species": [
+          "Hylaeosaurus",
+          "Nodosaurus",
+          "Panoplosaurus",
+          "Polacanthus",
+          "Sauropelta",
+          "Silvisaurus",
+          "Struthiosaurus"
+        ]
+      },
+      {
+        "subcategory": "Stegosaurs",
+        "species": [
+          "Kentrosaurus",
+          "Stegosaurus",
+          "Tuojiangosaurus",
+          "Wuerhosaurus"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Flying Reptiles: The Pterosaurs",
+    "subcategories": [
+      {
+        "subcategory": "Long-Tailed Pterosaurs",
+        "species": [
+          "Anurognathus",
+          "Dimorphodon",
+          "Eudimorphodon",
+          "Rhamphorhynchus",
+          "Scaphognathus",
+          "Sordes"
+        ]
+      },
+      {
+        "subcategory": "Short-Tailed Pterosaurs",
+        "species": [
+          "Cearadactylus",
+          "Dsungaripterus",
+          "Pteranodon",
+          "Pterodactylus",
+          "Pterodaustro",
+          "Quetzalcoatlus"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Early Diapsids",
+    "subcategories": [
+      {
+        "subcategory": "Land-Dwelling Diapsids",
+        "species": [
+          "Araeoscelis",
+          "Petrolacosaurus"
+        ]
+      },
+      {
+        "subcategory": "Early Marine Diapsids",
+        "species": [
+          "Askeptosaurus",
+          "Champsosaurus",
+          "Coelurosauravus",
+          "Hovasaurus",
+          "Planocephalosaurus",
+          "Pleurosaurus",
+          "Thadeosaurus"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Early Marine Life",
+    "subcategories": [
+      {
+        "subcategory": "Jawless Fishes",
+        "species": [
+          "Arandaspis",
+          "Boreaspis",
+          "Doryaspis",
+          "Drepanaspis",
+          "Jamoytius",
+          "Pharyngolepis",
+          "Pteraspis",
+          "Thelodus"
+        ]
+      },
+      {
+        "subcategory": "Primitive Ray-Finned Fishes",
+        "species": [
+          "Aspidorhynchus",
+          "Canobius",
+          "Cheirolepis",
+          "Cyclurus",
+          "Leptolepis",
+          "Moythomasia",
+          "Palaeoniscum",
+          "Perleidus",
+          "Pteronisculus",
+          "Saurichthys"
+        ]
+      },
+      {
+        "subcategory": "Placoderms",
+        "species": [
+          "Bothriolepis",
+          "Coccosteus",
+          "Ctenurella",
+          "Dinichthys",
+          "Dunkleosteus",
+          "Gemuendina",
+          "Groenlandaspis"
+        ]
+      },
+      {
+        "subcategory": "Armored Fishes",
+        "species": [
+          "Cephalaspis",
+          "Climatius",
+          "Dartmuthia",
+          "Hemicyclaspis",
+          "Ischnacanthus",
+          "Palaeospondylus",
+          "Tremataspis"
+        ]
+      },
+      {
+        "subcategory": "Lungfishes",
+        "species": [
+          "Ceratodus",
+          "Dipnorhynchus",
+          "Dipterus",
+          "Griphognathus",
+          "Gyroptychius"
+        ]
+      },
+      {
+        "subcategory": "Sharks",
+        "species": [
+          "Cladoselache",
+          "Cobelodus",
+          "Hybodus",
+          "Scapanorhynchus",
+          "Stethacanthus",
+          "Tristychius",
+          "Xenacanthus"
+        ]
+      },
+      {
+        "subcategory": "Deep-Bodied Ray-Finned Fishes",
+        "species": [
+          "Dapedium",
+          "Platysomus",
+          "Pycnodus"
+        ]
+      },
+      {
+        "subcategory": "Chimeras",
+        "species": [
+          "Deltoptychius",
+          "Helicoprion",
+          "Ischyodus"
+        ]
+      },
+      {
+        "subcategory": "Fleshy-Lobed Fishes",
+        "species": [
+          "Eusthenopteron",
+          "Holoptychius",
+          "Osteolepis",
+          "Strunius"
+        ]
+      },
+      {
+        "subcategory": "Coelacanths",
+        "species": [
+          "Latimeria",
+          "Macropoma"
+        ]
+      },
+      {
+        "subcategory": "Rays",
+        "species": [
+          "Spathobatis"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Prehistoric Turtles and Tortoises",
+    "subcategories": [
+      {
+        "subcategory": "Turtles",
+        "species": [
+          "Archelon",
+          "Meiolania",
+          "Palaeotrionyx",
+          "Proganochelys",
+          "Protostega",
+          "Stupendemys"
+        ]
+      },
+      {
+        "subcategory": "Tortoises",
+        "species": [
+          "Testudo"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Prehistoric Crocodiles",
+    "subcategories": [
+      {
+        "subcategory": "Early Crocodiles",
+        "species": [
+          "Bernissartia",
+          "Gracilisuchus",
+          "Pristichampsus",
+          "Protosuchus",
+          "Terrestrisuchus"
+        ]
+      },
+      {
+        "subcategory": "Giant Crocodiles",
+        "species": [
+          "Deinosuchus",
+          "Sarcosuchus"
+        ]
+      },
+      {
+        "subcategory": "Ocean-Dwelling Crocodiles",
+        "species": [
+          "Metriorhynchus",
+          "Teleosaurus"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Early Dinos",
+    "subcategories": [
+      {
+        "subcategory": "Fabrosaurs",
+        "species": [
+          "Camptosaurus",
+          "Dryosaurus",
+          "Hypsilophodon",
+          "Iguanodon",
+          "Lesothosaurus",
+          "Pisanosaurus",
+          "Scutellosaurus",
+          "Tenontosaurus",
+          "Thescelosaurus"
+        ]
+      },
+      {
+        "subcategory": "Heterodontosaurs",
+        "species": [
+          "Echinodon",
+          "Heterodontosaurus"
+        ]
+      },
+      {
+        "subcategory": "Pachycephalosaurs",
+        "species": [
+          "Homalcocephale",
+          "Pachycephalosaurus",
+          "Prenocephale",
+          "Stegoceras"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Horned Dinosaurs",
+    "subcategories": [
+      {
+        "subcategory": "Big Nose Horns",
+        "species": [
+          "Centrosaurus",
+          "Pachyrhinosaurus",
+          "Styracosaurus"
+        ]
+      },
+      {
+        "subcategory": "Big Brow Horns",
+        "species": [
+          "Chasmosaurus",
+          "Torosaurus",
+          "Triceratops"
+        ]
+      },
+      {
+        "subcategory": "Early Ceratopsians",
+        "species": [
+          "Yinlong Downsi"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Prehistoric Sea Reptiles",
+    "subcategories": [
+      {
+        "subcategory": "Nothosaurs: The Swift Swimmers",
+        "species": [
+          "Ceresiosaurus",
+          "Claudiosaurus",
+          "Lariosaurus",
+          "Nothosaurus",
+          "Pistosaurus"
+        ]
+      },
+    {
+        "subcategory":"Plesiosaurs",
+        "species": [
+            "Cryptocleidus",
+            "Elasmosaurus",
+            "Macroplata",
+            "Muraenosaurus",
+            "Plesiosaurus"
+        ]
+      },
+      {
+        "subcategory": "Placodonts: The Armored Cracker-Jaws",
+        "species": [
+          "Henodus",
+          "Placochelys",
+          "Placodus"
+        ]
+      },
+      {
+        "subcategory": "Mosasaurs",
+        "species": [
+          "Mosasaurus",
+          "Platecarpus",
+          "Plotosaurus"
+        ]
+      },
+      {
+        "subcategory": "Early Sea Snakes",
+        "species": [
+          "Pachyrhachis"
+        ]
+      },
+      {
+        "subcategory": "Ichthyosaurs",
+        "species": [
+          "Cymbospondylus",
+          "Eurhinosaurus",
+          "Ichthyosaurus",
+          "Mixosaurus",
+          "Ophthalmosaurus",
+          "Shonisaurus",
+          "Stenopterygius",
+          "Temnodontosaurus"
+        ]
+      }
+    ]
+  },
+  {
+    "primary": "Early Reptiles",
+    "subcategories": [
+      {
+        "subcategory": "The Ruling Reptiles",
+        "species": [
+          "Chasmatosaurus",
+          "Desmatosuchus",
+          "Erythrosuchus",
+          "Euparkeria",
+          "Lagosuchus",
+          "Longisquama",
+          "Ornithosuchus",
+          "Postosuchus",
+          "Proterosuchus",
+          "Rutiodon",
+          "Stagonolepis",
+          "Ticinosuchus"
+        ]
+      },
+      {
+        "subcategory": "Early Lizards & Gliders",
+        "species": [
+          "Ardeosaurus",
+          "Hylonomus",
+          "Kuehneosaurus",
+          "Megalania"
+        ]
+      },
+      {
+        "subcategory": "Early Archosauromorphs",
+        "species": [
+          "Hyperodapedon",
+          "Protorosaurus",
+          "Tanystropheus"
+        ]
+      },
+      {
+        "subcategory": "Early Parareptiles",
+        "species": [
+          "Hypsognathus",
+          "Labidosaurus",
+          "Milleretta"
+        ]
+      },
+      {
+        "subcategory": "Early Aquatic Reptiles",
+        "species": [
+          "Mesosaurus"
+        ]
+      },
+      {
+        "subcategory": "Armored Plant-Eaters",
+        "species": [
+          "Elginia",
+          "Pareiasaurus",
+          "Scutosaurus"
+        ]
+      }
+    ]
+  }
+]

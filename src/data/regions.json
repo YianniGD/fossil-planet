@@ -1,0 +1,170 @@
+[
+  {
+    "Region_Name": "South America",
+    "Coordinates": {
+      "lat": -27.333333333333332,
+      "lng": -62.666666666666664
+    },
+    "locations": [
+      "Argentina",
+      "Brazil",
+      "Neuquén Basin",
+      "Venezuela"
+    ],
+    "views": [
+      {
+        "name": "Standard",
+        "Coordinates": {
+          "lat": -27.333333333333332,
+          "lng": -62.666666666666664
+        }
+      },
+      {
+        "name": "North",
+        "Coordinates": {
+          "lat": -10,
+          "lng": -62.666666666666664
+        }
+      },
+      {
+        "name": "South",
+        "Coordinates": {
+          "lat": -45,
+          "lng": -62.666666666666664
+        }
+      }
+    ],
+    "description": "This represents a broad geographical area within the South American continent, encompassing diverse paleontological sites not tied to a single specific formation."
+  },
+  {
+    "Region_Name": "Africa",
+    "Coordinates": {
+      "lat": -9.182857142857143,
+      "lng": 23.29285714285714
+    },
+    "locations": [
+      "Bahariya Formation",
+      "Cynognathus Zone",
+      "Elliot Formation",
+      "Karoo Basin",
+      "Madagascar",
+      "Ténéré Desert",
+      "Whitehill Formation"
+    ],
+    "description": "This represents a broad geographical area within the African continent, encompassing diverse paleontological sites not tied to a single specific formation."
+  },
+  {
+    "Region_Name": "Europe",
+    "Coordinates": {
+      "lat": 51.53,
+      "lng": 2.5515384615384613
+    },
+    "locations": [
+      "Bear Gulch Limestone",
+      "Limestone of Cerin",
+      "Downton Castle Sandstone",
+      "Germany",
+      "Glencartholm Volcanic Beds",
+      "Gosau Group",
+      "Holloway Quarry",
+      "Hunsrück Slates",
+      "Isle of Wight",
+      "Italy",
+      "Kimmernamege Clay",
+      "Knollenmergel",
+      "Lesmahagow Inlier",
+      "Lias Formation",
+      "Lossiemouth Sandstone",
+      "Lower Lias Formation",
+      "Meuse River",
+      "Norway",
+      "Old Red Sandstone",
+      "Scotland",
+      "Solnhofen Limestone",
+      "Spitsbergen",
+      "Wealden Group",
+      "Zorzino Limestone"
+    ],
+    "description": "This represents a broad geographical area within the European continent, encompassing diverse paleontological sites not tied to a single specific formation."
+  },
+  {
+    "Region_Name": "North America",
+    "Coordinates": {
+      "lat": 44.4235294117647,
+      "lng": -95.34411764705882
+    },
+    "locations": [
+      "Canis Formation",
+      "Chinle Formation",
+      "Clear Fork Group",
+      "Cleveland Shale",
+      "Cloverly Formation",
+      "Dakota Formation",
+      "Dinosaur Park Formation",
+      "Escuminac Formation",
+      "Frontier Formation",
+      "Ghost Ranch quarry",
+      "Greenland",
+      "Hell Creek Formation",
+      "Horseshoe Canyon Formation",
+      "Javelina Formation",
+      "Joggins Formation",
+      "Kayenta Formation",
+      "Kirtland Formation",
+      "Lance Formation",
+      "Morrison Formation",
+      "Navesink Formation",
+      "Niobrara Formation",
+      "Phosphoria Formation",
+      "Shonisaurus State Park",
+      "Stanton Formation",
+      "Two Medicine Formation"
+    ],
+    "description": "This represents a broad geographical area within the North American continent, encompassing diverse paleontological sites not tied to a single specific formation."
+  },
+  {
+    "Region_Name": "Asia",
+    "Coordinates": {
+      "lat": 42.93555555555555,
+      "lng": 88.20333333333333
+    },
+    "locations": [
+      "China",
+      "Djadochta Formation",
+      "India",
+      "Kazakhstan",
+      "Middle East",
+      "Mongolia",
+      "Nemegt Formation",
+      "Oshurkovo Formation",
+      "Russia",
+      "Upper Shaximiao Formation",
+      "Junggar Basin",
+      "Wangshi Formation"
+    ],
+    "description": "This represents a broad geographical area within the Asian continent, encompassing diverse paleontological sites not tied to a single specific formation."
+  },
+  {
+    "Region_Name": "Oceania",
+    "Coordinates": {
+      "lat": -25.0,
+      "lng": 140.0
+    },
+    "locations": [
+      "Earnscleugh Cave",
+      "Stairway Sandstone"
+    ],
+    "description": "This represents a broad geographical area within the Australian continent, encompassing diverse paleontological sites not tied to a single specific formation."
+  },
+  {
+    "Region_Name": "Antarctica",
+    "Coordinates": {
+      "lat": -82.0,
+      "lng": 55.0
+    },
+    "locations": [
+      "Antarctica"
+    ],
+    "description": "This represents a broad geographical area within the Antarctic continent, encompassing diverse paleontological sites not tied to a single specific formation."
+  }
+]

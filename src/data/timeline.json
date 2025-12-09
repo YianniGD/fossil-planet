@@ -1,0 +1,250 @@
+{
+  "eras": [
+    {
+      "name": "Paleozoic Era",
+      "details": "The Age of Ancient Life (541 to 252 million years ago)",
+      "periods": [
+        {
+          "name": "Cambrian Period",
+          "details": "(541 to 485 million years ago)",
+          "summary": "A time of 'The Cambrian Explosion,' a huge burst of creativity where almost all major animal groups appeared in a flash (geologically speaking!).",
+          "key_events": [
+            {
+              "title": "Trilobites and Bug-like Creatures",
+              "description": "Lots of new creatures called arthropods (ancestors of insects and crabs) show up. The most famous were Trilobites, cool armored 'bugs' that crawled on the seafloor and had very good eyes."
+            },
+            {
+              "title": "Snails and Squids",
+              "description": "The first squid-like creatures, called Nautiloids, appeared. They had shells and were top predators. The first snails also began to crawl around."
+            },
+            {
+              "title": "The First Animals with Backbones",
+              "description": "We see the first hints of animals with a backbone. This includes strange, worm-like swimmers and the first-ever jawless fish, which were like swimming armored slugs."
+            }
+          ]
+        },
+        {
+          "name": "Ordovician Period",
+          "details": "(485 to 443 million years ago)",
+          "summary": "Life didn't slow down! This period saw another huge boom, adding more than three times the new types of sea creatures as the Cambrian.",
+          "key_events": [
+            {
+              "title": "Bustling Ocean Reefs",
+              "description": "The oceans filled with the first big coral reefs. Giant 'sea scorpions' called Eurypterids (some as big as a person!) became common. The first sea urchins also appeared."
+            },
+            {
+              "title": "Trilobites Get Competition",
+              "description": "Trilobites were still around, but they weren't the kings of the reef anymore. They now had to share their home with many other new animals."
+            }
+          ]
+        },
+        {
+          "name": "Silurian Period",
+          "details": "(443 to 419 million years ago)",
+          "summary": "This is when things got really interesting! Fish evolved jaws, and the very first brave animals started to explore dry land.",
+          "key_events": [
+            {
+              "title": "Fish Get Jaws!",
+              "description": "This was a huge upgrade! The first fish with jaws appeared, like the Placoderms (heavy armored fish) and the first sharks (whose skeletons are made of cartilage, not bone)."
+            },
+            {
+              "title": "Fish with Bones",
+              "description": "The first fish with true bones (like the fish we eat today) showed up. This group split into two types: 'ray-finned' fish (like a goldfish) and 'lobe-finned' fish (which would one day be important for animals on land)."
+            },
+            {
+              "title": "First Steps on Land",
+              "description": "The very first known land animal was a tiny millipede. This started a trend for giant land bugs, like Arthropleura, a 2-meter long (car-sized!) millipede."
+            }
+          ]
+        },
+        {
+          "name": "Devonian Period",
+          "details": "(419 to 359 million years ago)",
+          "summary": "Welcome to the 'Age of Fishes'! The oceans were packed with all kinds of new and strange fish, and the first four-legged animals left the water.",
+          "key_events": [
+            {
+              "title": "The Fish Take Over",
+              "description": "Armored fish (Placoderms) were everywhere, but then started to die out. New kinds of fish, like Lungfish (which can breathe air!), became common in rivers and swamps."
+            },
+            {
+              "title": "Fish with Feet",
+              "description": "The first 'tetrapods' (animals with four limbs) appeared. These amazing creatures evolved from the 'lobe-finned' fish and were the first to walk on land."
+            },
+            {
+              "title": "Insects Appear",
+              "description": "The first tiny, undisputed insect, a bug named Rhyniognatha, appeared around 400 million years ago."
+            }
+          ]
+        },
+        {
+          "name": "Carboniferous Period",
+          "details": "(359 to 299 million years ago)",
+          "summary": "This period saw a huge change: the first animals that could lay tough-shelled eggs on dry land! It was also a time when giant winged insects, like dragonflies as big as seagulls, filled the skies.",
+          "key_events": [
+            {
+              "title": "The Amazing Land Egg",
+              "description": "Around 312 million years ago, a new type of egg appeared. Instead of a soft, jelly egg that had to stay in water (like a frog's), this was a tough-shelled egg with its own food and water inside—like a personal pond for the baby! This huge invention meant animals could finally live and lay their eggs completely on dry land. Soon after, the animals that laid these eggs split into two major groups: the ancestors of reptiles and birds, and the ancestors of mammals."
+            },
+            {
+              "title": "The First Reptiles",
+              "description": "The first true reptiles evolved from amphibians. Because of their new land eggs and scaly skin, they could leave the water behind and live in much drier places."
+            },
+            {
+              "title": "Giant Flying Insects",
+              "description": "Insects learned to fly! This led to a huge explosion of new types, including the first beetles. The air was full of giant bugs, like dragonflies with a 2-foot wingspan."
+            },
+            {
+              "title": "Sharks Rule the Sea",
+              "description": "With the big armored fish gone, sharks took over as the top predators in the ocean, evolving into many new and different forms."
+            }
+          ]
+        },
+        {
+          "name": "Permian Period",
+          "details": "(299 to 252 million years ago)",
+          "summary": "This period saw large new land animals, but it ended with the 'Great Dying,' the biggest extinction event ever, which wiped out almost all life on Earth.",
+          "key_events": [
+            {
+              "title": "Our Distant Ancestors",
+              "description": "A group of reptile-like animals called 'Cynodonts' appeared. They weren't mammals, but they were the group that would eventually evolve *into* mammals, including us!"
+            },
+            {
+              "title": "Land Animals Spread Out",
+              "description": "Animals that laid land eggs spread across the supercontinent Pangaea. These groups would become the ancestors of dinosaurs, lizards, turtles, and mammals. Insect life also boomed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mesozoic Era",
+      "details": "The Age of Reptiles & Dinosaurs (245 to 65 million years ago)",
+      "periods": [
+        {
+          "name": "Triassic Period",
+          "details": "(252 to 201 million years ago)",
+          "summary": "After a massive extinction, life bounced back. This is when the very first dinosaurs appeared, along with flying reptiles called Pterosaurs and giant swimming reptiles in the oceans.",
+          "key_events": [
+            {
+              "title": "The Reptile Takeover",
+              "description": "After the Great Dying, reptiles took over the world. A group called 'Archosaurs' (which includes dinosaurs and crocodiles) became the new dominant animals on land."
+            },
+            {
+              "title": "The First Dinosaurs",
+              "description": "The very first dinosaurs were small and fast. But by the end of the period, the first giant, long-necked plant-eaters (Sauropods) and meat-eaters (Theropods, like T-Rex's ancestors) had appeared."
+            },
+            {
+              "title": "Reptiles in the Sky",
+              "description": "Pterosaurs, the first animals with backbones to evolve true powered flight, appeared. They were flying reptiles, *not* dinosaurs, with wings made of skin."
+            },
+            {
+              "title": "The First Mammals",
+              "description": "Tiny, furry, mouse-sized mammals evolved. They were shy and mostly active at night, hiding from the dinosaurs. The first egg-laying mammals (like a platypus's ancestor) also appeared."
+            },
+            {
+              "title": "Giants in the Sea",
+              "description": "While dinosaurs ruled the land, giant reptiles took to the sea. This included the dolphin-like Ichthyosaurs and the long-necked Plesiosaurs."
+            }
+          ]
+        },
+        {
+          "name": "Jurassic Period",
+          "details": "(208 to 146 million years ago)",
+          "summary": "This is the 'Age of Giants'! Dinosaurs became the undisputed kings of the land, growing to enormous sizes. And... the first birds appeared!",
+          "key_events": [
+            {
+              "title": "Dinosaurs Get Feathers",
+              "description": "The first feathers appeared on small meat-eating dinosaurs. From these dinosaurs, the first true birds evolved. The famous Archaeopteryx, a fossil of a bird with feathers and claws, comes from this time."
+            },
+            {
+              "title": "Age of the Giants",
+              "description": "Dinosaurs got HUGE. This period had the giant long-necked Brachiosaurus, the spiky-tailed Stegosaurus, and the tank-like Ankylosaurus."
+            },
+            {
+              "title": "Mammals Diversify (Quietly)",
+              "description": "Mammals were still small, but they were evolving. The first 'placental' mammals appeared. This is the group that would later include dogs, whales, bats, and humans."
+            }
+          ]
+        },
+        {
+          "name": "Cretaceous Period",
+          "details": "(146 to 65 million years ago)",
+          "summary": "This was the last and most famous time for the dinosaurs, with giants like T-Rex. Bees and flowering plants showed up, changing the world forever. The period ended with the giant asteroid impact that wiped out the dinosaurs.",
+          "key_events": [
+            {
+              "title": "Bees and Flowering Plants",
+              "description": "Flowering plants appeared for the first time, and soon after, bees evolved to pollinate them. This partnership changed the look of the land forever."
+            },
+            {
+              "title": "New Kings of the Sea",
+              "description": "The dolphin-like Ichthyosaurs went extinct. But modern-style bony fish and modern sharks took their place. Giant, curly-shelled Ammonites were everywhere."
+            },
+            {
+              "title": "The Reign of T-Rex",
+              "description": "This period had some of the most famous dinosaurs, like the giant fish-eater Spinosaurus and, at the very end, Tyrannosaurus Rex. The first true crocodiles appeared, while the flying Pterosaurs began to die out."
+            },
+            {
+              "title": "The Great Asteroid Impact",
+              "description": "A giant asteroid hit the Earth, causing a mass extinction. This event wiped out all the dinosaurs (except for birds), the giant marine reptiles, and the Ammonites. 75% of all species disappeared."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cenozoic Era",
+      "details": "The Age of Mammals (65 million years ago to today)",
+      "periods": [
+        {
+          "name": "Paleogene Period",
+          "details": "(65 to 23 million years ago)",
+          "summary": "With the big dinosaurs gone, mammals finally got their chance! They quickly evolved into all sorts of new shapes and sizes, from tiny rodents to the very first primates (our distant ancestors).",
+          "key_events": [
+            {
+              "title": "The Mammal Takeover",
+              "description": "With the big dinosaurs gone, mammals took over. They evolved very quickly, growing to large sizes to fill the empty jobs. The first rodents (like mice) and primates (our ancestors) evolved."
+            },
+            {
+              "title": "Familiar Animals Appear",
+              "description": "By the end of this period, the ancestors of many animals we know today had appeared, including the first cats, dogs, and horses. Most modern types of birds also appeared."
+            }
+          ]
+        },
+        {
+          "name": "Neogene Period",
+          "details": "(23 to 2.58 million years ago)",
+          "summary": "Wide-open grasslands spread across the world, leading to the rise of grazing animals like horses and antelopes. This is also the time when the first apes that would eventually lead to humans appeared in Africa.",
+          "key_events": [
+            {
+              "title": "The Human-Chimp Split",
+              "description": "In Africa, the ape family tree split. One branch would eventually lead to chimpanzees, and the other branch would eventually lead to humans."
+            },
+            {
+              "title": "Grassland Animals",
+              "description": "As big grassy plains spread, new animals evolved to eat the grass, like horses, antelopes, and camels. This also led to new predators, like the first true cats and saber-toothed cats. In the oceans, the giant shark Megalodon was the top predator."
+            },
+            {
+              "title": "Age of the Bony Fish",
+              "description": "The 'ray-finned' fish (like tuna, cod, and salmon) became the most successful group of animals with backbones on the planet. Today, they make up half of all vertebrate species!"
+            }
+          ]
+        },
+        {
+          "name": "Quaternary Period",
+          "details": "(2.58 million years ago to today)",
+          "summary": "This is the period we live in! It started with giant Ice Ages, where woolly mammoths and saber-toothed cats roamed. It now includes all of recorded human history.",
+          "key_events": [
+            {
+              "title": "The Ice Age",
+              "description": "This was the time of the great Ice Ages. Giant 'megafauna' (big animals) roamed the continents, like woolly mammoths, mastodons, saber-toothed cats, and giant ground sloths. Most of them went extinct 10,000 to 40,000 years ago."
+            },
+            {
+              "title": "The Age of Humans",
+              "description": "This is the last 11,700 years of history, when human civilization began. Unfortunately, humans are now causing a new mass extinction event, changing the climate, and melting the ice sheets."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

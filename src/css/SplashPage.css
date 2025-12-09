@@ -1,0 +1,47 @@
+.splash-content {
+    background-image: url('/public/ui/slate.svg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 2em;
+    text-align: center;
+    color: white;
+  }
+  
+  .splash-content h2 {
+    font-family: 'Grandstander', cursive;
+    font-weight: 900;
+  }
+  
+  .splash-content p {
+    font-family: 'Slackey', cursive;
+  }
+
+  .mySwiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: transparent;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-pagination-bullet {
+    background-color: white !important;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background-color: rgb(255, 255, 255) !important;
+  }
+  
+  .splash-buttons {
+    display: flex;
+    justify-content: center;
+  }

@@ -1,0 +1,157 @@
+@import url('./Timeline.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700;900&family=Noto+Sans+Serif:wght@400;700&display=swap');
+
+/* General Body Styles */
+body {
+    font-family: 'Noto Sans Serif', serif;
+    color: #F6F6F4;
+    background-color: #002732;
+    margin: 0;
+}
+
+h1 {
+    font-family: "BBH Sans Hegarty", sans-serif;
+    font-size: 4rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+h2 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+/* Era Title */
+.era-title {
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.close-button {
+    color: #EFE3C2;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Animations */
+
+.experience {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height:100vh;
+  z-index: 2;
+}
+
+.scrollTarget {
+  position: absolute;
+  height: 2000vh;
+  width: 100px;
+  top: 0;
+  z-index: 0;
+}
+
+.vignette-radial {
+  position: fixed;
+  z-index: 11;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  pointer-events: none;
+}
+
+.vignette-radial:after {
+  pointer-events: none;
+  content: ' ';
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background: radial-gradient(circle, transparent 60%, black 150%);
+}
+
+.filter-controls {
+    background: rgba(15, 64, 93, 0.3);
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.splash-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+}
+
+.splash-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 39, 50, 0.7);
+  mix-blend-mode: multiply;
+}
+
+.splash-content {
+  max-width: 800px;
+  padding: 20px;
+  text-align: left;
+  position: relative;
+  z-index: 1;
+  background-color: transparent;
+  color: #F6F6F4;
+}
+
+.fade-in-text {
+    animation: fadeInText 1s ease-in-out 0.5s;
+}
+
+
+.splash-content p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.start-button {
+    font-family: "BBH Sans Hegarty", sans-serif;
+    text-transform: uppercase;
+    font-size: 2rem;
+    background: none;
+    border: none;
+    color: #F6F6F4;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+.splash-buttons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.audio-button {
+  background-color: #ad6217;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+}

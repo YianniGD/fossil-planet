@@ -1,0 +1,1286 @@
+{
+  "Acanthostega": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Acrocanthosaurus": {
+    "feet": 36.1,
+    "meters": 11.0
+  },
+  "Aepyornis": {
+    "feet": 10.0,
+    "meters": 3.05
+  },
+  "Alamosaurus": {
+    "feet": 78.7,
+    "meters": 24.0
+  },
+  "Albertosaurus": {
+    "feet": 32.8,
+    "meters": 10.0
+  },
+  "Alioramus": {
+    "feet": 23.0,
+    "meters": 7.0
+  },
+  "Allosaurus": {
+    "feet": 36.0,
+    "meters": 11.0
+  },
+  "Alphadon": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Amphicoelias": {
+    "feet": 190.0,
+    "meters": 58.0
+  },
+  "Anchisaurus": {
+    "feet": 7.9,
+    "meters": 2.4
+  },
+  "Ankylosaurus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Anurognathus": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Apatosaurus": {
+    "feet": 75.0,
+    "meters": 23.0
+  },
+  "Araeoscelis": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Arandaspis": {
+    "feet": 0.67,
+    "meters": 0.2
+  },
+  "Archaeopteryx": {
+    "feet": 1.5,
+    "meters": 0.45
+  },
+  "Archaeothyris": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Archelon": {
+    "feet": 13.0,
+    "meters": 4.0
+  },
+  "Arctops": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Ardeosaurus": {
+    "feet": 0.7,
+    "meters": 0.2
+  },
+  "Argentavis": {
+    "feet": 23.0,
+    "meters": 7.01
+  },
+  "Argentinosaurus": {
+    "feet": 115.0,
+    "meters": 35.0
+  },
+  "Askeptosaurus": {
+    "feet": 8.2,
+    "meters": 2.5
+  },
+  "Aspidorhynchus": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Bactrosaurus": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Barapasaurus": {
+    "feet": 59.1,
+    "meters": 18.0
+  },
+  "Baryonyx": {
+    "feet": 24.6,
+    "meters": 7.5
+  },
+  "Bernissartia": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Boreaspis": {
+    "feet": 0.7,
+    "meters": 0.2
+  },
+  "Bothriolepis": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Brachiosaurus": {
+    "feet": 75.0,
+    "meters": 23.0
+  },
+  "Cacops": {
+    "feet": 1.3,
+    "meters": 0.4
+  },
+  "Camarasaurus": {
+    "feet": 59.1,
+    "meters": 18.0
+  },
+  "Camptosaurus": {
+    "feet": 23.0,
+    "meters": 7.0
+  },
+  "Canobius": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Carcharodontosaurus": {
+    "feet": 43.0,
+    "meters": 13.0
+  },
+  "Casea": {
+    "feet": 5.0,
+    "meters": 1.52
+  },
+  "Cearadactylus": {
+    "feet": 16.4,
+    "meters": 5.0
+  },
+  "Centrosaurus": {
+    "feet": 18.0,
+    "meters": 5.5
+  },
+  "Cephalaspis": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Ceratodus": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Ceratosaurus": {
+    "feet": 19.7,
+    "meters": 6.0
+  },
+  "Ceresiosaurus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Cetiosaurus": {
+    "feet": 54.1,
+    "meters": 16.5
+  },
+  "Champsosaurus": {
+    "feet": 4.9,
+    "meters": 1.5
+  },
+  "Chasmatosaurus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Chasmosaurus": {
+    "feet": 16.0,
+    "meters": 5.0
+  },
+  "Cheirolepis": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Cladoselache": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Claudiosaurus": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Climatius": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Cobelodus": {
+    "feet": 2.5,
+    "meters": 0.75
+  },
+  "Coccosteus": {
+    "feet": 1.3,
+    "meters": 0.4
+  },
+  "Coelophysis": {
+    "feet": 10.0,
+    "meters": 3.0
+  },
+  "Coelurosauravus": {
+    "feet": 1.3,
+    "meters": 0.4
+  },
+  "Coelurus": {
+    "feet": 5.9,
+    "meters": 1.8
+  },
+  "Compsognathus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Corythosaurus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Cotylorhynchus": {
+    "feet": 15.0,
+    "meters": 4.5
+  },
+  "Crassigyrinus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Crusafontia": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Cryptocleidus": {
+    "feet": 13.1,
+    "meters": 4.0
+  },
+  "Ctenurella": {
+    "feet": 0.8,
+    "meters": 0.25
+  },
+  "Cyclurus": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Cymbospondylus": {
+    "feet": 32.8,
+    "meters": 10.0
+  },
+  "Cynognathus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Dapedium": {
+    "feet": 1.3,
+    "meters": 0.4
+  },
+  "Dartmuthia": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Daspletosaurus": {
+    "feet": 29.5,
+    "meters": 9.0
+  },
+  "Deinonychus": {
+    "feet": 10.0,
+    "meters": 3.0
+  },
+  "Deinosuchus": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Deltoptychius": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Desmatosuchus": {
+    "feet": 16.4,
+    "meters": 5.0
+  },
+  "Diatryma": {
+    "feet": 8.0,
+    "meters": 2.44
+  },
+  "Dicraeosaurus": {
+    "feet": 45.9,
+    "meters": 14.0
+  },
+  "Dicynodon": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Dilophosaurus": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Dimetrodon": {
+    "feet": 12.0,
+    "meters": 3.5
+  },
+  "Dimorphodon": {
+    "feet": 4.0,
+    "meters": 1.2
+  },
+  "Dinichthys": {
+    "feet": 11.0,
+    "meters": 3.5
+  },
+  "Dinornis": {
+    "feet": 11.0,
+    "meters": 3.35
+  },
+  "Diplocaulus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Diplodocus": {
+    "feet": 85.0,
+    "meters": 26.0
+  },
+  "Dipnorhynchus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Dipterus": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Dodo": {
+    "feet": 3.0,
+    "meters": 0.91
+  },
+  "Doryaspis": {
+    "feet": 1.15,
+    "meters": 0.35
+  },
+  "Drepanaspis": {
+    "feet": 2.6,
+    "meters": 0.8
+  },
+  "Dromaeosaurus": {
+    "feet": 5.9,
+    "meters": 1.8
+  },
+  "Dromiceiomimus": {
+    "feet": 11.5,
+    "meters": 3.5
+  },
+  "Dryosaurus": {
+    "feet": 10.0,
+    "meters": 3.0
+  },
+  "Dsungaripterus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Dunkleosteus": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Echinodon": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Edaphosaurus": {
+    "feet": 11.0,
+    "meters": 3.0
+  },
+  "Edmontosaurus": {
+    "feet": 42.7,
+    "meters": 13.0
+  },
+  "Efraasia": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Elaphrosaurus": {
+    "feet": 19.7,
+    "meters": 6.0
+  },
+  "Elasmosaurus": {
+    "feet": 46.0,
+    "meters": 14.0
+  },
+  "Elginia": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Emeus": {
+    "feet": 5.0,
+    "meters": 1.52
+  },
+  "Eogyrinus": {
+    "feet": 15.1,
+    "meters": 4.6
+  },
+  "Ericiolacerta": {
+    "feet": 0.7,
+    "meters": 0.2
+  },
+  "Eryops": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Erythrosuchus": {
+    "feet": 16.4,
+    "meters": 5.0
+  },
+  "Eudimorphodon": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Euhelopus": {
+    "feet": 49.2,
+    "meters": 15.0
+  },
+  "Euoplocephalus": {
+    "feet": 18.0,
+    "meters": 5.5
+  },
+  "Euparkeria": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Eurhinosaurus": {
+    "feet": 19.7,
+    "meters": 6.0
+  },
+  "Eusthenopteron": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Eustreptospondylus": {
+    "feet": 16.4,
+    "meters": 5.0
+  },
+  "Gallimimus": {
+    "feet": 19.7,
+    "meters": 6.0
+  },
+  "Gemuendina": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Gerrothorax": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Giganotosaurus": {
+    "feet": 46.0,
+    "meters": 14.0
+  },
+  "Gracilisuchus": {
+    "feet": 1.3,
+    "meters": 0.4
+  },
+  "Great Auk": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Greererpeton": {
+    "feet": 4.9,
+    "meters": 1.5
+  },
+  "Griphognathus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Groenlandaspis": {
+    "feet": 0.8,
+    "meters": 0.25
+  },
+  "Gyroptychius": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Hadrosaurus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Haramiyia": {
+    "feet": 0.33,
+    "meters": 0.1
+  },
+  "Harpagornis": {
+    "feet": 10.0,
+    "meters": 3.05
+  },
+  "Helicoprion": {
+    "feet": 23.0,
+    "meters": 7.0
+  },
+  "Hemicyclaspis": {
+    "feet": 0.67,
+    "meters": 0.2
+  },
+  "Henodus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Hesperornis": {
+    "feet": 6.0,
+    "meters": 1.83
+  },
+  "Heterodontosaurus": {
+    "feet": 4.0,
+    "meters": 1.2
+  },
+  "Holoptychius": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Homalcocephale": {
+    "feet": 4.9,
+    "meters": 1.5
+  },
+  "Hovasaurus": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Hybodus": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Hylaeosaurus": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Hylonomus": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Hypacrosaurus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Hyperodapedon": {
+    "feet": 3.9,
+    "meters": 1.2
+  },
+  "Hypsilophodon": {
+    "feet": 7.0,
+    "meters": 2.0
+  },
+  "Hypsognathus": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Ichthyornis": {
+    "feet": 1.67,
+    "meters": 0.51
+  },
+  "Ichthyosaurus": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Ichthyostega": {
+    "feet": 5.0,
+    "meters": 1.5
+  },
+  "Iguanodon": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Ischnacanthus": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Ischyodus": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Jamoytius": {
+    "feet": 0.67,
+    "meters": 0.2
+  },
+  "Kannemeyeria": {
+    "feet": 6.0,
+    "meters": 1.83
+  },
+  "Karaurus": {
+    "feet": 0.7,
+    "meters": 0.2
+  },
+  "Kentrosaurus": {
+    "feet": 16.0,
+    "meters": 5.0
+  },
+  "Keraterpeton": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Kritosaurus": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Kronosaurus": {
+    "feet": 32.8,
+    "meters": 10.0
+  },
+  "Kuehneosaurus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Labidosaurus": {
+    "feet": 2.5,
+    "meters": 0.75
+  },
+  "Lagosuchus": {
+    "feet": 1.3,
+    "meters": 0.4
+  },
+  "Lambeosaurus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Lariosaurus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Latimeria": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Leptolepis": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Lesothosaurus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Limnofregata": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Liopleurodon": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Longisquama": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Lycaenops": {
+    "feet": 3.0,
+    "meters": 0.91
+  },
+  "Lystrosaurus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Macroplata": {
+    "feet": 14.8,
+    "meters": 4.5
+  },
+  "Macropoma": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Maiasaura": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Mamenchisaurus": {
+    "feet": 72.2,
+    "meters": 22.0
+  },
+  "Massetognathus": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Massospondylus": {
+    "feet": 16.4,
+    "meters": 5.0
+  },
+  "Megalania": {
+    "feet": 18.0,
+    "meters": 5.5
+  },
+  "Megalosaurus": {
+    "feet": 29.5,
+    "meters": 9.0
+  },
+  "Megazostrodon": {
+    "feet": 0.33,
+    "meters": 0.1
+  },
+  "Meiolania": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Mesosaurus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Metriorhynchus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Milleretta": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Mixosaurus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Mosasaurus": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Moschops": {
+    "feet": 16.0,
+    "meters": 4.88
+  },
+  "Moythomasia": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Muraenosaurus": {
+    "feet": 19.7,
+    "meters": 6.0
+  },
+  "Mussaurus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Neocathartes": {
+    "feet": 2.5,
+    "meters": 0.75
+  },
+  "Nodosaurus": {
+    "feet": 18.0,
+    "meters": 5.5
+  },
+  "Nothosaurus": {
+    "feet": 13.1,
+    "meters": 4.0
+  },
+  "Oligokyphus": {
+    "feet": 0.67,
+    "meters": 0.2
+  },
+  "Ophiacodon": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Ophiderpeton": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Ophthalmosaurus": {
+    "feet": 13.1,
+    "meters": 4.0
+  },
+  "Opisthocoelicaudia": {
+    "feet": 39.4,
+    "meters": 12.0
+  },
+  "Ornitholestes": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Ornithomimus": {
+    "feet": 11.5,
+    "meters": 3.5
+  },
+  "Ornithosuchus": {
+    "feet": 13.0,
+    "meters": 4.0
+  },
+  "Osteodontornis": {
+    "feet": 16.0,
+    "meters": 4.88
+  },
+  "Osteolepis": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Oviraptor": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Pachycephalosaurus": {
+    "feet": 15.0,
+    "meters": 4.5
+  },
+  "Pachyrhachis": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Pachyrhinosaurus": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Palaelodus": {
+    "feet": 2.0,
+    "meters": 0.61
+  },
+  "Palaeobatrachus": {
+    "feet": 0.3,
+    "meters": 0.1
+  },
+  "Palaeoniscum": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Palaeospondylus": {
+    "feet": 0.3,
+    "meters": 0.1
+  },
+  "Palaeotrionyx": {
+    "feet": 3.0,
+    "meters": 0.9
+  },
+  "Panoplosaurus": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Pantylus": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Paracyclotosaurus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Parasaurolophus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Pareiasaurus": {
+    "feet": 8.0,
+    "meters": 2.5
+  },
+  "Peloneustes": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Peltobatrachus": {
+    "feet": 2.3,
+    "meters": 0.7
+  },
+  "Perleidus": {
+    "feet": 0.7,
+    "meters": 0.2
+  },
+  "Petrolacosaurus": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Pharyngolepis": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Phorusrhacus": {
+    "feet": 8.0,
+    "meters": 2.44
+  },
+  "Phthinosuchus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Pisanosaurus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Pistosaurus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Placochelys": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Placodus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Planocephalosaurus": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Platecarpus": {
+    "feet": 14.1,
+    "meters": 4.3
+  },
+  "Plateosaurus": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Platyhystrix": {
+    "feet": 3.0,
+    "meters": 0.9
+  },
+  "Platysomus": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Plesiosaurus": {
+    "feet": 11.5,
+    "meters": 3.5
+  },
+  "Pleurosaurus": {
+    "feet": 4.9,
+    "meters": 1.5
+  },
+  "Pliosaurus": {
+    "feet": 40.0,
+    "meters": 12.0
+  },
+  "Plotosaurus": {
+    "feet": 39.4,
+    "meters": 12.0
+  },
+  "Polacanthus": {
+    "feet": 13.0,
+    "meters": 4.0
+  },
+  "Postosuchus": {
+    "feet": 16.0,
+    "meters": 5.0
+  },
+  "Prenocephale": {
+    "feet": 7.9,
+    "meters": 2.4
+  },
+  "Presbyornis": {
+    "feet": 3.0,
+    "meters": 0.91
+  },
+  "Pristichampsus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Procompsognathus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Procynosuchus": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Proganochelys": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Prosaurolophus": {
+    "feet": 26.0,
+    "meters": 8.0
+  },
+  "Proterosuchus": {
+    "feet": 4.9,
+    "meters": 1.5
+  },
+  "Protorosaurus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Protostega": {
+    "feet": 10.0,
+    "meters": 3.0
+  },
+  "Protosuchus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Pteranodon": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Pteraspis": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Pterodactylus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Pterodaustro": {
+    "feet": 4.3,
+    "meters": 1.3
+  },
+  "Pteronisculus": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Ptilodus": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Purgatorius": {
+    "feet": 0.5,
+    "meters": 0.15
+  },
+  "Pycnodus": {
+    "feet": 0.39,
+    "meters": 0.12
+  },
+  "Quetzalcoatlus": {
+    "feet": 36.0,
+    "meters": 11.0
+  },
+  "Rhamphorhynchus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Riojasaurus": {
+    "feet": 36.1,
+    "meters": 11.0
+  },
+  "Robertia": {
+    "feet": 0.8,
+    "meters": 0.25
+  },
+  "Rutiodon": {
+    "feet": 7.9,
+    "meters": 2.4
+  },
+  "Saichania": {
+    "feet": 16.0,
+    "meters": 5.0
+  },
+  "Saltasaurus": {
+    "feet": 39.4,
+    "meters": 12.0
+  },
+  "Saltopus": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Sarcosuchus": {
+    "feet": 40.0,
+    "meters": 12.0
+  },
+  "Saurichthys": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Saurolophus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Sauropelta": {
+    "feet": 25.0,
+    "meters": 7.6
+  },
+  "Saurornithoides": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Saurornitholestes": {
+    "feet": 5.9,
+    "meters": 1.8
+  },
+  "Scapanorhynchus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Scaphognathus": {
+    "feet": 3.3,
+    "meters": 1.0
+  },
+  "Scutellosaurus": {
+    "feet": 3.9,
+    "meters": 1.2
+  },
+  "Scutosaurus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Seymouria": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Shantungosaurus": {
+    "feet": 43.0,
+    "meters": 13.0
+  },
+  "Shonisaurus": {
+    "feet": 50.0,
+    "meters": 15.0
+  },
+  "Silvisaurus": {
+    "feet": 13.0,
+    "meters": 4.0
+  },
+  "Sordes": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Spathobatis": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Sphenacodon": {
+    "feet": 10.0,
+    "meters": 3.05
+  },
+  "Spinosaurus": {
+    "feet": 49.0,
+    "meters": 15.0
+  },
+  "Stagonolepis": {
+    "feet": 8.9,
+    "meters": 2.7
+  },
+  "Stegoceras": {
+    "feet": 8.0,
+    "meters": 2.5
+  },
+  "Stegosaurus": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Stenonychosaurus": {
+    "feet": 5.9,
+    "meters": 1.8
+  },
+  "Stenopterygius": {
+    "feet": 13.1,
+    "meters": 4.0
+  },
+  "Stethacanthus": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Strunius": {
+    "feet": 1.5,
+    "meters": 0.45
+  },
+  "Struthiosaurus": {
+    "feet": 10.0,
+    "meters": 3.0
+  },
+  "Stupendemys": {
+    "feet": 10.8,
+    "meters": 3.3
+  },
+  "Styracosaurus": {
+    "feet": 18.0,
+    "meters": 5.5
+  },
+  "Supersaurus": {
+    "feet": 100.0,
+    "meters": 30.0
+  },
+  "Talarurus": {
+    "feet": 16.0,
+    "meters": 5.0
+  },
+  "Tanystropheus": {
+    "feet": 16.4,
+    "meters": 5.0
+  },
+  "Tarbosaurus": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Teleosaurus": {
+    "feet": 9.8,
+    "meters": 3.0
+  },
+  "Temnodontosaurus": {
+    "feet": 19.7,
+    "meters": 6.0
+  },
+  "Tenontosaurus": {
+    "feet": 23.0,
+    "meters": 7.0
+  },
+  "Teratosaurus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Terrestrisuchus": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Testudo": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Thadeosaurus": {
+    "feet": 2.0,
+    "meters": 0.6
+  },
+  "Thecodontosaurus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Thelodus": {
+    "feet": 1.0,
+    "meters": 0.3
+  },
+  "Thescelosaurus": {
+    "feet": 13.0,
+    "meters": 4.0
+  },
+  "Thrinaxodon": {
+    "feet": 1.6,
+    "meters": 0.5
+  },
+  "Ticinosuchus": {
+    "feet": 8.2,
+    "meters": 2.5
+  },
+  "Titanosuchus": {
+    "feet": 6.6,
+    "meters": 2.0
+  },
+  "Torosaurus": {
+    "feet": 25.0,
+    "meters": 7.6
+  },
+  "Tremataspis": {
+    "feet": 0.8,
+    "meters": 0.25
+  },
+  "Triadobatrachus": {
+    "feet": 0.3,
+    "meters": 0.1
+  },
+  "Triceratops": {
+    "feet": 30.0,
+    "meters": 9.0
+  },
+  "Tristychius": {
+    "feet": 5.9,
+    "meters": 1.8
+  },
+  "Tsintaosaurus": {
+    "feet": 33.0,
+    "meters": 10.0
+  },
+  "Tuojiangosaurus": {
+    "feet": 23.0,
+    "meters": 7.0
+  },
+  "Tyrannosaurus": {
+    "feet": 40.0,
+    "meters": 12.0
+  },
+  "Varanosaurus": {
+    "feet": 4.0,
+    "meters": 1.22
+  },
+  "Velociraptor": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Vieraella": {
+    "feet": 0.3,
+    "meters": 0.1
+  },
+  "Wuerhosaurus": {
+    "feet": 20.0,
+    "meters": 6.0
+  },
+  "Xenacanthus": {
+    "feet": 3.0,
+    "meters": 1.0
+  },
+  "Yinlong Downsi": {
+    "feet": 6.0,
+    "meters": 1.8
+  },
+  "Zalambdalestes": {
+    "feet": 0.5,
+    "meters": 0.15
+  }
+}

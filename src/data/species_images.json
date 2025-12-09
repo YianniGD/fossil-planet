@@ -1,0 +1,1286 @@
+{
+  "Acanthostega": {
+    "image": "Acanthostega.png",
+    "xray_image": "Acanthostega_skeleton.png"
+  },
+  "Acrocanthosaurus": {
+    "image": "Acrocanthosaurus.png",
+    "xray_image": "Acrocanthosaurus_skeleton.png"
+  },
+  "Aepyornis": {
+    "image": "Aepyornis.png",
+    "xray_image": "Aepyornis_skeleton.png"
+  },
+  "Alamosaurus": {
+    "image": "Alamosaurus.png",
+    "xray_image": "Alamosaurus_skeleton.png"
+  },
+  "Albertosaurus": {
+    "image": "Albertosaurus.png",
+    "xray_image": "Albertosaurus_skeleton.png"
+  },
+  "Alioramus": {
+    "image": "Alioramus.png",
+    "xray_image": "Alioramus_skeleton.png"
+  },
+  "Allosaurus": {
+    "image": "Allosaurus.png",
+    "xray_image": "Allosaurus_skeleton.png"
+  },
+  "Alphadon": {
+    "image": "Alphadon.png",
+    "xray_image": "Alphadon_skeleton.png"
+  },
+  "Amphicoelias": {
+    "image": "Amphicoelias.png",
+    "xray_image": "Amphicoelias_skeleton.png"
+  },
+  "Anchisaurus": {
+    "image": "Anchisaurus.png",
+    "xray_image": "Anchisaurus_skeleton.png"
+  },
+  "Ankylosaurus": {
+    "image": "Ankylosaurus.png",
+    "xray_image": "Ankylosaurus_skeleton.png"
+  },
+  "Anurognathus": {
+    "image": "Anurognathus.png",
+    "xray_image": "Anurognathus_skeleton.png"
+  },
+  "Apatosaurus": {
+    "image": "Apatosaurus.png",
+    "xray_image": "Apatosaurus_skeleton.png"
+  },
+  "Araeoscelis": {
+    "image": "Araeoscelis.png",
+    "xray_image": "Araeoscelis_skeleton.png"
+  },
+  "Arandaspis": {
+    "image": "Arandaspis.png",
+    "xray_image": "Arandaspis_skeleton.png"
+  },
+  "Archaeopteryx": {
+    "image": "Archaeopteryx.png",
+    "xray_image": "Archaeopteryx_skeleton.png"
+  },
+  "Archaeothyris": {
+    "image": "Archaeothyris.png",
+    "xray_image": "Archaeothyris_skeleton.png"
+  },
+  "Archelon": {
+    "image": "Archelon.png",
+    "xray_image": "Archelon_skeleton.png"
+  },
+  "Arctops": {
+    "image": "Arctops.png",
+    "xray_image": "Arctops_skeleton.png"
+  },
+  "Ardeosaurus": {
+    "image": "Ardeosaurus.png",
+    "xray_image": "Ardeosaurus_skeleton.png"
+  },
+  "Argentavis": {
+    "image": "Argentavis.png",
+    "xray_image": "Argentavis_skeleton.png"
+  },
+  "Argentinosaurus": {
+    "image": "Argentinosaurus.png",
+    "xray_image": "Argentinosaurus_skeleton.png"
+  },
+  "Askeptosaurus": {
+    "image": "Askeptosaurus.png",
+    "xray_image": "Askeptosaurus_skeleton.png"
+  },
+  "Aspidorhynchus": {
+    "image": "Aspidorhynchus.png",
+    "xray_image": "Aspidorhynchus_skeleton.png"
+  },
+  "Bactrosaurus": {
+    "image": "Bactrosaurus.png",
+    "xray_image": "Bactrosaurus_skeleton.png"
+  },
+  "Barapasaurus": {
+    "image": "Barapasaurus.png",
+    "xray_image": "Barapasaurus_skeleton.png"
+  },
+  "Baryonyx": {
+    "image": "Baryonyx.png",
+    "xray_image": "Baryonyx_skeleton.png"
+  },
+  "Bernissartia": {
+    "image": "Bernissartia.png",
+    "xray_image": "Bernissartia_skeleton.png"
+  },
+  "Boreaspis": {
+    "image": "Boreaspis.png",
+    "xray_image": "Boreaspis_skeleton.png"
+  },
+  "Bothriolepis": {
+    "image": "Bothriolepis.png",
+    "xray_image": "Bothriolepis_skeleton.png"
+  },
+  "Brachiosaurus": {
+    "image": "Brachiosaurus.png",
+    "xray_image": "Brachiosaurus_skeleton.png"
+  },
+  "Cacops": {
+    "image": "Cacops.png",
+    "xray_image": "Cacops_skeleton.png"
+  },
+  "Camarasaurus": {
+    "image": "Camarasaurus.png",
+    "xray_image": "Camarasaurus_skeleton.png"
+  },
+  "Camptosaurus": {
+    "image": "Camptosaurus.png",
+    "xray_image": "Camptosaurus_skeleton.png"
+  },
+  "Canobius": {
+    "image": "Canobius.png",
+    "xray_image": "Canobius_skeleton.png"
+  },
+  "Carcharodontosaurus": {
+    "image": "Carcharodontosaurus.png",
+    "xray_image": "Carcharodontosaurus_skeleton.png"
+  },
+  "Casea": {
+    "image": "Casea.png",
+    "xray_image": "Casea_skeleton.png"
+  },
+  "Cearadactylus": {
+    "image": "Cearadactylus.png",
+    "xray_image": "Cearadactylus_skeleton.png"
+  },
+  "Centrosaurus": {
+    "image": "Centrosaurus.png",
+    "xray_image": "Centrosaurus_skeleton.png"
+  },
+  "Cephalaspis": {
+    "image": "Cephalaspis.png",
+    "xray_image": "Cephalaspis_skeleton.png"
+  },
+  "Ceratodus": {
+    "image": "Ceratodus.png",
+    "xray_image": "Ceratodus_skeleton.png"
+  },
+  "Ceratosaurus": {
+    "image": "Ceratosaurus.png",
+    "xray_image": "Ceratosaurus_skeleton.png"
+  },
+  "Ceresiosaurus": {
+    "image": "Ceresiosaurus.png",
+    "xray_image": "Ceresiosaurus_skeleton.png"
+  },
+  "Cetiosaurus": {
+    "image": "Cetiosaurus.png",
+    "xray_image": "Cetiosaurus_skeleton.png"
+  },
+  "Champsosaurus": {
+    "image": "Champsosaurus.png",
+    "xray_image": "Champsosaurus_skeleton.png"
+  },
+  "Chasmatosaurus": {
+    "image": "Chasmatosaurus.png",
+    "xray_image": "Chasmatosaurus_skeleton.png"
+  },
+  "Chasmosaurus": {
+    "image": "Chasmosaurus.png",
+    "xray_image": "Chasmosaurus_skeleton.png"
+  },
+  "Cheirolepis": {
+    "image": "Cheirolepis.png",
+    "xray_image": "Cheirolepis_skeleton.png"
+  },
+  "Cladoselache": {
+    "image": "Cladoselache.png",
+    "xray_image": "Cladoselache_skeleton.png"
+  },
+  "Claudiosaurus": {
+    "image": "Claudiosaurus.png",
+    "xray_image": "Claudiosaurus_skeleton.png"
+  },
+  "Climatius": {
+    "image": "Climatius.png",
+    "xray_image": "Climatius_skeleton.png"
+  },
+  "Cobelodus": {
+    "image": "Cobelodus.png",
+    "xray_image": "Cobelodus_skeleton.png"
+  },
+  "Coccosteus": {
+    "image": "Coccosteus.png",
+    "xray_image": "Coccosteus_skeleton.png"
+  },
+  "Coelophysis": {
+    "image": "Coelophysis.png",
+    "xray_image": "Coelophysis_skeleton.png"
+  },
+  "Coelurosauravus": {
+    "image": "Coelurosauravus.png",
+    "xray_image": "Coelurosauravus_skeleton.png"
+  },
+  "Coelurus": {
+    "image": "Coelurus.png",
+    "xray_image": "Coelurus_skeleton.png"
+  },
+  "Compsognathus": {
+    "image": "Compsognathus.png",
+    "xray_image": "Compsognathus_skeleton.png"
+  },
+  "Corythosaurus": {
+    "image": "Corythosaurus.png",
+    "xray_image": "Corythosaurus_skeleton.png"
+  },
+  "Cotylorhynchus": {
+    "image": "Cotylorhynchus.png",
+    "xray_image": "Cotylorhynchus_skeleton.png"
+  },
+  "Crassigyrinus": {
+    "image": "Crassigyrinus.png",
+    "xray_image": "Crassigyrinus_skeleton.png"
+  },
+  "Crusafontia": {
+    "image": "Crusafontia.png",
+    "xray_image": "Crusafontia_skeleton.png"
+  },
+  "Cryptocleidus": {
+    "image": "Cryptocleidus.png",
+    "xray_image": "Cryptocleidus_skeleton.png"
+  },
+  "Ctenurella": {
+    "image": "Ctenurella.png",
+    "xray_image": "Ctenurella_skeleton.png"
+  },
+  "Cyclurus": {
+    "image": "Cyclurus.png",
+    "xray_image": "Cyclurus_skeleton.png"
+  },
+  "Cymbospondylus": {
+    "image": "Cymbospondylus.png",
+    "xray_image": "Cymbospondylus_skeleton.png"
+  },
+  "Cynognathus": {
+    "image": "Cynognathus.png",
+    "xray_image": "Cynognathus_skeleton.png"
+  },
+  "Dapedium": {
+    "image": "Dapedium.png",
+    "xray_image": "Dapedium_skeleton.png"
+  },
+  "Dartmuthia": {
+    "image": "Dartmuthia.png",
+    "xray_image": "Dartmuthia_skeleton.png"
+  },
+  "Daspletosaurus": {
+    "image": "Daspletosaurus.png",
+    "xray_image": "Daspletosaurus_skeleton.png"
+  },
+  "Deinonychus": {
+    "image": "Deinonychus.png",
+    "xray_image": "Deinonychus_skeleton.png"
+  },
+  "Deinosuchus": {
+    "image": "Deinosuchus.png",
+    "xray_image": "Deinosuchus_skeleton.png"
+  },
+  "Deltoptychius": {
+    "image": "Deltoptychius.png",
+    "xray_image": "Deltoptychius_skeleton.png"
+  },
+  "Desmatosuchus": {
+    "image": "Desmatosuchus.png",
+    "xray_image": "Desmatosuchus_skeleton.png"
+  },
+  "Diatryma": {
+    "image": "Diatryma.png",
+    "xray_image": "Diatryma_skeleton.png"
+  },
+  "Dicraeosaurus": {
+    "image": "Dicraeosaurus.png",
+    "xray_image": "Dicraeosaurus_skeleton.png"
+  },
+  "Dicynodon": {
+    "image": "Dicynodon.png",
+    "xray_image": "Dicynodon_skeleton.png"
+  },
+  "Dilophosaurus": {
+    "image": "Dilophosaurus.png",
+    "xray_image": "Dilophosaurus_skeleton.png"
+  },
+  "Dimetrodon": {
+    "image": "Dimetrodon.png",
+    "xray_image": "Dimetrodon_skeleton.png"
+  },
+  "Dimorphodon": {
+    "image": "Dimorphodon.png",
+    "xray_image": "Dimorphodon_skeleton.png"
+  },
+  "Dinichthys": {
+    "image": "Dinichthys.png",
+    "xray_image": "Dinichthys_skeleton.png"
+  },
+  "Dinornis": {
+    "image": "Dinornis.png",
+    "xray_image": "Dinornis_skeleton.png"
+  },
+  "Diplocaulus": {
+    "image": "Diplocaulus.png",
+    "xray_image": "Diplocaulus_skeleton.png"
+  },
+  "Diplodocus": {
+    "image": "Diplodocus.png",
+    "xray_image": "Diplodocus_skeleton.png"
+  },
+  "Dipnorhynchus": {
+    "image": "Dipnorhynchus.png",
+    "xray_image": "Dipnorhynchus_skeleton.png"
+  },
+  "Dipterus": {
+    "image": "Dipterus.png",
+    "xray_image": "Dipterus_skeleton.png"
+  },
+  "Dodo": {
+    "image": "Dodo.png",
+    "xray_image": "Dodo_skeleton.png"
+  },
+  "Doryaspis": {
+    "image": "Doryaspis.png",
+    "xray_image": "Doryaspis_skeleton.png"
+  },
+  "Drepanaspis": {
+    "image": "Drepanaspis.png",
+    "xray_image": "Drepanaspis_skeleton.png"
+  },
+  "Dromaeosaurus": {
+    "image": "Dromaeosaurus.png",
+    "xray_image": "Dromaeosaurus_skeleton.png"
+  },
+  "Dromiceiomimus": {
+    "image": "Dromiceiomimus.png",
+    "xray_image": "Dromiceiomimus_skeleton.png"
+  },
+  "Dryosaurus": {
+    "image": "Dryosaurus.png",
+    "xray_image": "Dryosaurus_skeleton.png"
+  },
+  "Dsungaripterus": {
+    "image": "Dsungaripterus.png",
+    "xray_image": "Dsungaripterus_skeleton.png"
+  },
+  "Dunkleosteus": {
+    "image": "Dunkleosteus.png",
+    "xray_image": "Dunkleosteus_skeleton.png"
+  },
+  "Echinodon": {
+    "image": "Echinodon.png",
+    "xray_image": "Echinodon_skeleton.png"
+  },
+  "Edaphosaurus": {
+    "image": "Edaphosaurus.png",
+    "xray_image": "Edaphosaurus_skeleton.png"
+  },
+  "Edmontosaurus": {
+    "image": "Edmontosaurus.png",
+    "xray_image": "Edmontosaurus_skeleton.png"
+  },
+  "Efraasia": {
+    "image": "Efraasia.png",
+    "xray_image": "Efraasia_skeleton.png"
+  },
+  "Elaphrosaurus": {
+    "image": "Elaphrosaurus.png",
+    "xray_image": "Elaphrosaurus_skeleton.png"
+  },
+  "Elasmosaurus": {
+    "image": "Elasmosaurus.png",
+    "xray_image": "Elasmosaurus_skeleton.png"
+  },
+  "Elginia": {
+    "image": "Elginia.png",
+    "xray_image": "Elginia_skeleton.png"
+  },
+  "Emeus": {
+    "image": "Emeus.png",
+    "xray_image": "Emeus_skeleton.png"
+  },
+  "Eogyrinus": {
+    "image": "Eogyrinus.png",
+    "xray_image": "Eogyrinus_skeleton.png"
+  },
+  "Ericiolacerta": {
+    "image": "Ericiolacerta.png",
+    "xray_image": "Ericiolacerta_skeleton.png"
+  },
+  "Eryops": {
+    "image": "Eryops.png",
+    "xray_image": "Eryops_skeleton.png"
+  },
+  "Erythrosuchus": {
+    "image": "Erythrosuchus.png",
+    "xray_image": "Erythrosuchus_skeleton.png"
+  },
+  "Eudimorphodon": {
+    "image": "Eudimorphodon.png",
+    "xray_image": "Eudimorphodon_skeleton.png"
+  },
+  "Euhelopus": {
+    "image": "Euhelopus.png",
+    "xray_image": "Euhelopus_skeleton.png"
+  },
+  "Euoplocephalus": {
+    "image": "Euoplocephalus.png",
+    "xray_image": "Euoplocephalus_skeleton.png"
+  },
+  "Euparkeria": {
+    "image": "Euparkeria.png",
+    "xray_image": "Euparkeria_skeleton.png"
+  },
+  "Eurhinosaurus": {
+    "image": "Eurhinosaurus.png",
+    "xray_image": "Eurhinosaurus_skeleton.png"
+  },
+  "Eusthenopteron": {
+    "image": "Eusthenopteron.png",
+    "xray_image": "Eusthenopteron_skeleton.png"
+  },
+  "Eustreptospondylus": {
+    "image": "Eustreptospondylus.png",
+    "xray_image": "Eustreptospondylus_skeleton.png"
+  },
+  "Gallimimus": {
+    "image": "Gallimimus.png",
+    "xray_image": "Gallimimus_skeleton.png"
+  },
+  "Gemuendina": {
+    "image": "Gemuendina.png",
+    "xray_image": "Gemuendina_skeleton.png"
+  },
+  "Gerrothorax": {
+    "image": "Gerrothorax.png",
+    "xray_image": "Gerrothorax_skeleton.png"
+  },
+  "Giganotosaurus": {
+    "image": "Giganotosaurus.png",
+    "xray_image": "Giganotosaurus_skeleton.png"
+  },
+  "Gracilisuchus": {
+    "image": "Gracilisuchus.png",
+    "xray_image": "Gracilisuchus_skeleton.png"
+  },
+  "Great Auk": {
+    "image": "Great Auk.png",
+    "xray_image": "Great Auk_skeleton.png"
+  },
+  "Greererpeton": {
+    "image": "Greererpeton.png",
+    "xray_image": "Greererpeton_skeleton.png"
+  },
+  "Griphognathus": {
+    "image": "Griphognathus.png",
+    "xray_image": "Griphognathus_skeleton.png"
+  },
+  "Groenlandaspis": {
+    "image": "Groenlandaspis.png",
+    "xray_image": "Groenlandaspis_skeleton.png"
+  },
+  "Gyroptychius": {
+    "image": "Gyroptychius.png",
+    "xray_image": "Gyroptychius_skeleton.png"
+  },
+  "Hadrosaurus": {
+    "image": "Hadrosaurus.png",
+    "xray_image": "Hadrosaurus_skeleton.png"
+  },
+  "Haramiyia": {
+    "image": "Haramiyia.png",
+    "xray_image": "Haramiyia_skeleton.png"
+  },
+  "Harpagornis": {
+    "image": "Harpagornis.png",
+    "xray_image": "Harpagornis_skeleton.png"
+  },
+  "Helicoprion": {
+    "image": "Helicoprion.png",
+    "xray_image": "Helicoprion_skeleton.png"
+  },
+  "Hemicyclaspis": {
+    "image": "Hemicyclaspis.png",
+    "xray_image": "Hemicyclaspis_skeleton.png"
+  },
+  "Henodus": {
+    "image": "Henodus.png",
+    "xray_image": "Henodus_skeleton.png"
+  },
+  "Hesperornis": {
+    "image": "Hesperornis.png",
+    "xray_image": "Hesperornis_skeleton.png"
+  },
+  "Heterodontosaurus": {
+    "image": "Heterodontosaurus.png",
+    "xray_image": "Heterodontosaurus_skeleton.png"
+  },
+  "Holoptychius": {
+    "image": "Holoptychius.png",
+    "xray_image": "Holoptychius_skeleton.png"
+  },
+  "Homalcocephale": {
+    "image": "Homalcocephale.png",
+    "xray_image": "Homalcocephale_skeleton.png"
+  },
+  "Hovasaurus": {
+    "image": "Hovasaurus.png",
+    "xray_image": "Hovasaurus_skeleton.png"
+  },
+  "Hybodus": {
+    "image": "Hybodus.png",
+    "xray_image": "Hybodus_skeleton.png"
+  },
+  "Hylaeosaurus": {
+    "image": "Hylaeosaurus.png",
+    "xray_image": "Hylaeosaurus_skeleton.png"
+  },
+  "Hylonomus": {
+    "image": "Hylonomus.png",
+    "xray_image": "Hylonomus_skeleton.png"
+  },
+  "Hypacrosaurus": {
+    "image": "Hypacrosaurus.png",
+    "xray_image": "Hypacrosaurus_skeleton.png"
+  },
+  "Hyperodapedon": {
+    "image": "Hyperodapedon.png",
+    "xray_image": "Hyperodapedon_skeleton.png"
+  },
+  "Hypsilophodon": {
+    "image": "Hypsilophodon.png",
+    "xray_image": "Hypsilophodon_skeleton.png"
+  },
+  "Hypsognathus": {
+    "image": "Hypsognathus.png",
+    "xray_image": "Hypsognathus_skeleton.png"
+  },
+  "Ichthyornis": {
+    "image": "Ichthyornis.png",
+    "xray_image": "Ichthyornis_skeleton.png"
+  },
+  "Ichthyosaurus": {
+    "image": "Ichthyosaurus.png",
+    "xray_image": "Ichthyosaurus_skeleton.png"
+  },
+  "Ichthyostega": {
+    "image": "Ichthyostega.png",
+    "xray_image": "Ichthyostega_skeleton.png"
+  },
+  "Iguanodon": {
+    "image": "Iguanodon.png",
+    "xray_image": "Iguanodon_skeleton.png"
+  },
+  "Ischnacanthus": {
+    "image": "Ischnacanthus.png",
+    "xray_image": "Ischnacanthus_skeleton.png"
+  },
+  "Ischyodus": {
+    "image": "Ischyodus.png",
+    "xray_image": "Ischyodus_skeleton.png"
+  },
+  "Jamoytius": {
+    "image": "Jamoytius.png",
+    "xray_image": "Jamoytius_skeleton.png"
+  },
+  "Kannemeyeria": {
+    "image": "Kannemeyeria.png",
+    "xray_image": "Kannemeyeria_skeleton.png"
+  },
+  "Karaurus": {
+    "image": "Karaurus.png",
+    "xray_image": "Karaurus_skeleton.png"
+  },
+  "Kentrosaurus": {
+    "image": "Kentrosaurus.png",
+    "xray_image": "Kentrosaurus_skeleton.png"
+  },
+  "Keraterpeton": {
+    "image": "Keraterpeton.png",
+    "xray_image": "Keraterpeton_skeleton.png"
+  },
+  "Kritosaurus": {
+    "image": "Kritosaurus.png",
+    "xray_image": "Kritosaurus_skeleton.png"
+  },
+  "Kronosaurus": {
+    "image": "Kronosaurus.png",
+    "xray_image": "Kronosaurus_skeleton.png"
+  },
+  "Kuehneosaurus": {
+    "image": "Kuehneosaurus.png",
+    "xray_image": "Kuehneosaurus_skeleton.png"
+  },
+  "Labidosaurus": {
+    "image": "Labidosaurus.png",
+    "xray_image": "Labidosaurus_skeleton.png"
+  },
+  "Lagosuchus": {
+    "image": "Lagosuchus.png",
+    "xray_image": "Lagosuchus_skeleton.png"
+  },
+  "Lambeosaurus": {
+    "image": "Lambeosaurus.png",
+    "xray_image": "Lambeosaurus_skeleton.png"
+  },
+  "Lariosaurus": {
+    "image": "Lariosaurus.png",
+    "xray_image": "Lariosaurus_skeleton.png"
+  },
+  "Latimeria": {
+    "image": "Latimeria.png",
+    "xray_image": "Latimeria_skeleton.png"
+  },
+  "Leptolepis": {
+    "image": "Leptolepis.png",
+    "xray_image": "Leptolepis_skeleton.png"
+  },
+  "Lesothosaurus": {
+    "image": "Lesothosaurus.png",
+    "xray_image": "Lesothosaurus_skeleton.png"
+  },
+  "Limnofregata": {
+    "image": "Limnofregata.png",
+    "xray_image": "Limnofregata_skeleton.png"
+  },
+  "Liopleurodon": {
+    "image": "Liopleurodon.png",
+    "xray_image": "Liopleurodon_skeleton.png"
+  },
+  "Longisquama": {
+    "image": "Longisquama.png",
+    "xray_image": "Longisquama_skeleton.png"
+  },
+  "Lycaenops": {
+    "image": "Lycaenops.png",
+    "xray_image": "Lycaenops_skeleton.png"
+  },
+  "Lystrosaurus": {
+    "image": "Lystrosaurus.png",
+    "xray_image": "Lystrosaurus_skeleton.png"
+  },
+  "Macroplata": {
+    "image": "Macroplata.png",
+    "xray_image": "Macroplata_skeleton.png"
+  },
+  "Macropoma": {
+    "image": "Macropoma.png",
+    "xray_image": "Macropoma_skeleton.png"
+  },
+  "Maiasaura": {
+    "image": "Maiasaura.png",
+    "xray_image": "Maiasaura_skeleton.png"
+  },
+  "Mamenchisaurus": {
+    "image": "Mamenchisaurus.png",
+    "xray_image": "Mamenchisaurus_skeleton.png"
+  },
+  "Massetognathus": {
+    "image": "Massetognathus.png",
+    "xray_image": "Massetognathus_skeleton.png"
+  },
+  "Massospondylus": {
+    "image": "Massospondylus.png",
+    "xray_image": "Massospondylus_skeleton.png"
+  },
+  "Megalania": {
+    "image": "Megalania.png",
+    "xray_image": "Megalania_skeleton.png"
+  },
+  "Megalosaurus": {
+    "image": "Megalosaurus.png",
+    "xray_image": "Megalosaurus_skeleton.png"
+  },
+  "Megazostrodon": {
+    "image": "Megazostrodon.png",
+    "xray_image": "Megazostrodon_skeleton.png"
+  },
+  "Meiolania": {
+    "image": "Meiolania.png",
+    "xray_image": "Meiolania_skeleton.png"
+  },
+  "Mesosaurus": {
+    "image": "Mesosaurus.png",
+    "xray_image": "Mesosaurus_skeleton.png"
+  },
+  "Metriorhynchus": {
+    "image": "Metriorhynchus.png",
+    "xray_image": "Metriorhynchus_skeleton.png"
+  },
+  "Milleretta": {
+    "image": "Milleretta.png",
+    "xray_image": "Milleretta_skeleton.png"
+  },
+  "Mixosaurus": {
+    "image": "Mixosaurus.png",
+    "xray_image": "Mixosaurus_skeleton.png"
+  },
+  "Mosasaurus": {
+    "image": "Mosasaurus.png",
+    "xray_image": "Mosasaurus_skeleton.png"
+  },
+  "Moschops": {
+    "image": "Moschops.png",
+    "xray_image": "Moschops_skeleton.png"
+  },
+  "Moythomasia": {
+    "image": "Moythomasia.png",
+    "xray_image": "Moythomasia_skeleton.png"
+  },
+  "Muraenosaurus": {
+    "image": "Muraenosaurus.png",
+    "xray_image": "Muraenosaurus_skeleton.png"
+  },
+  "Mussaurus": {
+    "image": "Mussaurus.png",
+    "xray_image": "Mussaurus_skeleton.png"
+  },
+  "Neocathartes": {
+    "image": "Neocathartes.png",
+    "xray_image": "Neocathartes_skeleton.png"
+  },
+  "Nodosaurus": {
+    "image": "Nodosaurus.png",
+    "xray_image": "Nodosaurus_skeleton.png"
+  },
+  "Nothosaurus": {
+    "image": "Nothosaurus.png",
+    "xray_image": "Nothosaurus_skeleton.png"
+  },
+  "Oligokyphus": {
+    "image": "Oligokyphus.png",
+    "xray_image": "Oligokyphus_skeleton.png"
+  },
+  "Ophiacodon": {
+    "image": "Ophiacodon.png",
+    "xray_image": "Ophiacodon_skeleton.png"
+  },
+  "Ophiderpeton": {
+    "image": "Ophiderpeton.png",
+    "xray_image": "Ophiderpeton_skeleton.png"
+  },
+  "Ophthalmosaurus": {
+    "image": "Ophthalmosaurus.png",
+    "xray_image": "Ophthalmosaurus_skeleton.png"
+  },
+  "Opisthocoelicaudia": {
+    "image": "Opisthocoelicaudia.png",
+    "xray_image": "Opisthocoelicaudia_skeleton.png"
+  },
+  "Ornitholestes": {
+    "image": "Ornitholestes.png",
+    "xray_image": "Ornitholestes_skeleton.png"
+  },
+  "Ornithomimus": {
+    "image": "Ornithomimus.png",
+    "xray_image": "Ornithomimus_skeleton.png"
+  },
+  "Ornithosuchus": {
+    "image": "Ornithosuchus.png",
+    "xray_image": "Ornithosuchus_skeleton.png"
+  },
+  "Osteodontornis": {
+    "image": "Osteodontornis.png",
+    "xray_image": "Osteodontornis_skeleton.png"
+  },
+  "Osteolepis": {
+    "image": "Osteolepis.png",
+    "xray_image": "Osteolepis_skeleton.png"
+  },
+  "Oviraptor": {
+    "image": "Oviraptor.png",
+    "xray_image": "Oviraptor_skeleton.png"
+  },
+  "Pachycephalosaurus": {
+    "image": "Pachycephalosaurus.png",
+    "xray_image": "Pachycephalosaurus_skeleton.png"
+  },
+  "Pachyrhachis": {
+    "image": "Pachyrhachis.png",
+    "xray_image": "Pachyrhachis_skeleton.png"
+  },
+  "Pachyrhinosaurus": {
+    "image": "Pachyrhinosaurus.png",
+    "xray_image": "Pachyrhinosaurus_skeleton.png"
+  },
+  "Palaelodus": {
+    "image": "Palaelodus.png",
+    "xray_image": "Palaelodus_skeleton.png"
+  },
+  "Palaeobatrachus": {
+    "image": "Palaeobatrachus.png",
+    "xray_image": "Palaeobatrachus_skeleton.png"
+  },
+  "Palaeoniscum": {
+    "image": "Palaeoniscum.png",
+    "xray_image": "Palaeoniscum_skeleton.png"
+  },
+  "Palaeospondylus": {
+    "image": "Palaeospondylus.png",
+    "xray_image": "Palaeospondylus_skeleton.png"
+  },
+  "Palaeotrionyx": {
+    "image": "Palaeotrionyx.png",
+    "xray_image": "Palaeotrionyx_skeleton.png"
+  },
+  "Panoplosaurus": {
+    "image": "Panoplosaurus.png",
+    "xray_image": "Panoplosaurus_skeleton.png"
+  },
+  "Pantylus": {
+    "image": "Pantylus.png",
+    "xray_image": "Pantylus_skeleton.png"
+  },
+  "Paracyclotosaurus": {
+    "image": "Paracyclotosaurus.png",
+    "xray_image": "Paracyclotosaurus_skeleton.png"
+  },
+  "Parasaurolophus": {
+    "image": "Parasaurolophus.png",
+    "xray_image": "Parasaurolophus_skeleton.png"
+  },
+  "Pareiasaurus": {
+    "image": "Pareiasaurus.png",
+    "xray_image": "Pareiasaurus_skeleton.png"
+  },
+  "Peloneustes": {
+    "image": "Peloneustes.png",
+    "xray_image": "Peloneustes_skeleton.png"
+  },
+  "Peltobatrachus": {
+    "image": "Peltobatrachus.png",
+    "xray_image": "Peltobatrachus_skeleton.png"
+  },
+  "Perleidus": {
+    "image": "Perleidus.png",
+    "xray_image": "Perleidus_skeleton.png"
+  },
+  "Petrolacosaurus": {
+    "image": "Petrolacosaurus.png",
+    "xray_image": "Petrolacosaurus_skeleton.png"
+  },
+  "Pharyngolepis": {
+    "image": "Pharyngolepis.png",
+    "xray_image": "Pharyngolepis_skeleton.png"
+  },
+  "Phorusrhacus": {
+    "image": "Phorusrhacus.png",
+    "xray_image": "Phorusrhacus_skeleton.png"
+  },
+  "Phthinosuchus": {
+    "image": "Phthinosuchus.png",
+    "xray_image": "Phthinosuchus_skeleton.png"
+  },
+  "Pisanosaurus": {
+    "image": "Pisanosaurus.png",
+    "xray_image": "Pisanosaurus_skeleton.png"
+  },
+  "Pistosaurus": {
+    "image": "Pistosaurus.png",
+    "xray_image": "Pistosaurus_skeleton.png"
+  },
+  "Placochelys": {
+    "image": "Placochelys.png",
+    "xray_image": "Placochelys_skeleton.png"
+  },
+  "Placodus": {
+    "image": "Placodus.png",
+    "xray_image": "Placodus_skeleton.png"
+  },
+  "Planocephalosaurus": {
+    "image": "Planocephalosaurus.png",
+    "xray_image": "Planocephalosaurus_skeleton.png"
+  },
+  "Platecarpus": {
+    "image": "Platecarpus.png",
+    "xray_image": "Platecarpus_skeleton.png"
+  },
+  "Plateosaurus": {
+    "image": "Plateosaurus.png",
+    "xray_image": "Plateosaurus_skeleton.png"
+  },
+  "Platyhystrix": {
+    "image": "Platyhystrix.png",
+    "xray_image": "Platyhystrix_skeleton.png"
+  },
+  "Platysomus": {
+    "image": "Platysomus.png",
+    "xray_image": "Platysomus_skeleton.png"
+  },
+  "Plesiosaurus": {
+    "image": "Plesiosaurus.png",
+    "xray_image": "Plesiosaurus_skeleton.png"
+  },
+  "Pleurosaurus": {
+    "image": "Pleurosaurus.png",
+    "xray_image": "Pleurosaurus_skeleton.png"
+  },
+  "Pliosaurus": {
+    "image": "Pliosaurus.png",
+    "xray_image": "Pliosaurus_skeleton.png"
+  },
+  "Plotosaurus": {
+    "image": "Plotosaurus.png",
+    "xray_image": "Plotosaurus_skeleton.png"
+  },
+  "Polacanthus": {
+    "image": "Polacanthus.png",
+    "xray_image": "Polacanthus_skeleton.png"
+  },
+  "Postosuchus": {
+    "image": "Postosuchus.png",
+    "xray_image": "Postosuchus_skeleton.png"
+  },
+  "Prenocephale": {
+    "image": "Prenocephale.png",
+    "xray_image": "Prenocephale_skeleton.png"
+  },
+  "Presbyornis": {
+    "image": "Presbyornis.png",
+    "xray_image": "Presbyornis_skeleton.png"
+  },
+  "Pristichampsus": {
+    "image": "Pristichampsus.png",
+    "xray_image": "Pristichampsus_skeleton.png"
+  },
+  "Procompsognathus": {
+    "image": "Procompsognathus.png",
+    "xray_image": "Procompsognathus_skeleton.png"
+  },
+  "Procynosuchus": {
+    "image": "Procynosuchus.png",
+    "xray_image": "Procynosuchus_skeleton.png"
+  },
+  "Proganochelys": {
+    "image": "Proganochelys.png",
+    "xray_image": "Proganochelys_skeleton.png"
+  },
+  "Prosaurolophus": {
+    "image": "Prosaurolophus.png",
+    "xray_image": "Prosaurolophus_skeleton.png"
+  },
+  "Proterosuchus": {
+    "image": "Proterosuchus.png",
+    "xray_image": "Proterosuchus_skeleton.png"
+  },
+  "Protorosaurus": {
+    "image": "Protorosaurus.png",
+    "xray_image": "Protorosaurus_skeleton.png"
+  },
+  "Protostega": {
+    "image": "Protostega.png",
+    "xray_image": "Protostega_skeleton.png"
+  },
+  "Protosuchus": {
+    "image": "Protosuchus.png",
+    "xray_image": "Protosuchus_skeleton.png"
+  },
+  "Pteranodon": {
+    "image": "Pteranodon.png",
+    "xray_image": "Pteranodon_skeleton.png"
+  },
+  "Pteraspis": {
+    "image": "Pteraspis.png",
+    "xray_image": "Pteraspis_skeleton.png"
+  },
+  "Pterodactylus": {
+    "image": "Pterodactylus.png",
+    "xray_image": "Pterodactylus_skeleton.png"
+  },
+  "Pterodaustro": {
+    "image": "Pterodaustro.png",
+    "xray_image": "Pterodaustro_skeleton.png"
+  },
+  "Pteronisculus": {
+    "image": "Pteronisculus.png",
+    "xray_image": "Pteronisculus_skeleton.png"
+  },
+  "Ptilodus": {
+    "image": "Ptilodus.png",
+    "xray_image": "Ptilodus_skeleton.png"
+  },
+  "Purgatorius": {
+    "image": "Purgatorius.png",
+    "xray_image": "Purgatorius_skeleton.png"
+  },
+  "Pycnodus": {
+    "image": "Pycnodus.png",
+    "xray_image": "Pycnodus_skeleton.png"
+  },
+  "Quetzalcoatlus": {
+    "image": "Quetzalcoatlus.png",
+    "xray_image": "Quetzalcoatlus_skeleton.png"
+  },
+  "Rhamphorhynchus": {
+    "image": "Rhamphorhynchus.png",
+    "xray_image": "Rhamphorhynchus_skeleton.png"
+  },
+  "Riojasaurus": {
+    "image": "Riojasaurus.png",
+    "xray_image": "Riojasaurus_skeleton.png"
+  },
+  "Robertia": {
+    "image": "Robertia.png",
+    "xray_image": "Robertia_skeleton.png"
+  },
+  "Rutiodon": {
+    "image": "Rutiodon.png",
+    "xray_image": "Rutiodon_skeleton.png"
+  },
+  "Saichania": {
+    "image": "Saichania.png",
+    "xray_image": "Saichania_skeleton.png"
+  },
+  "Saltasaurus": {
+    "image": "Saltasaurus.png",
+    "xray_image": "Saltasaurus_skeleton.png"
+  },
+  "Saltopus": {
+    "image": "Saltopus.png",
+    "xray_image": "Saltopus_skeleton.png"
+  },
+  "Sarcosuchus": {
+    "image": "Sarcosuchus.png",
+    "xray_image": "Sarcosuchus_skeleton.png"
+  },
+  "Saurichthys": {
+    "image": "Saurichthys.png",
+    "xray_image": "Saurichthys_skeleton.png"
+  },
+  "Saurolophus": {
+    "image": "Saurolophus.png",
+    "xray_image": "Saurolophus_skeleton.png"
+  },
+  "Sauropelta": {
+    "image": "Sauropelta.png",
+    "xray_image": "Sauropelta_skeleton.png"
+  },
+  "Saurornithoides": {
+    "image": "Saurornithoides.png",
+    "xray_image": "Saurornithoides_skeleton.png"
+  },
+  "Saurornitholestes": {
+    "image": "Saurornitholestes.png",
+    "xray_image": "Saurornitholestes_skeleton.png"
+  },
+  "Scapanorhynchus": {
+    "image": "Scapanorhynchus.png",
+    "xray_image": "Scapanorhynchus_skeleton.png"
+  },
+  "Scaphognathus": {
+    "image": "Scaphognathus.png",
+    "xray_image": "Scaphognathus_skeleton.png"
+  },
+  "Scutellosaurus": {
+    "image": "Scutellosaurus.png",
+    "xray_image": "Scutellosaurus_skeleton.png"
+  },
+  "Scutosaurus": {
+    "image": "Scutosaurus.png",
+    "xray_image": "Scutosaurus_skeleton.png"
+  },
+  "Seymouria": {
+    "image": "Seymouria.png",
+    "xray_image": "Seymouria_skeleton.png"
+  },
+  "Shantungosaurus": {
+    "image": "Shantungosaurus.png",
+    "xray_image": "Shantungosaurus_skeleton.png"
+  },
+  "Shonisaurus": {
+    "image": "Shonisaurus.png",
+    "xray_image": "Shonisaurus_skeleton.png"
+  },
+  "Silvisaurus": {
+    "image": "Silvisaurus.png",
+    "xray_image": "Silvisaurus_skeleton.png"
+  },
+  "Sordes": {
+    "image": "Sordes.png",
+    "xray_image": "Sordes_skeleton.png"
+  },
+  "Spathobatis": {
+    "image": "Spathobatis.png",
+    "xray_image": "Spathobatis_skeleton.png"
+  },
+  "Sphenacodon": {
+    "image": "Sphenacodon.png",
+    "xray_image": "Sphenacodon_skeleton.png"
+  },
+  "Spinosaurus": {
+    "image": "Spinosaurus.png",
+    "xray_image": "Spinosaurus_skeleton.png"
+  },
+  "Stagonolepis": {
+    "image": "Stagonolepis.png",
+    "xray_image": "Stagonolepis_skeleton.png"
+  },
+  "Stegoceras": {
+    "image": "Stegoceras.png",
+    "xray_image": "Stegoceras_skeleton.png"
+  },
+  "Stegosaurus": {
+    "image": "Stegosaurus.png",
+    "xray_image": "Stegosaurus_skeleton.png"
+  },
+  "Stenonychosaurus": {
+    "image": "Stenonychosaurus.png",
+    "xray_image": "Stenonychosaurus_skeleton.png"
+  },
+  "Stenopterygius": {
+    "image": "Stenopterygius.png",
+    "xray_image": "Stenopterygius_skeleton.png"
+  },
+  "Stethacanthus": {
+    "image": "Stethacanthus.png",
+    "xray_image": "Stethacanthus_skeleton.png"
+  },
+  "Strunius": {
+    "image": "Strunius.png",
+    "xray_image": "Strunius_skeleton.png"
+  },
+  "Struthiosaurus": {
+    "image": "Struthiosaurus.png",
+    "xray_image": "Struthiosaurus_skeleton.png"
+  },
+  "Stupendemys": {
+    "image": "Stupendemys.png",
+    "xray_image": "Stupendemys_skeleton.png"
+  },
+  "Styracosaurus": {
+    "image": "Styracosaurus.png",
+    "xray_image": "Styracosaurus_skeleton.png"
+  },
+  "Supersaurus": {
+    "image": "Supersaurus.png",
+    "xray_image": "Supersaurus_skeleton.png"
+  },
+  "Talarurus": {
+    "image": "Talarurus.png",
+    "xray_image": "Talarurus_skeleton.png"
+  },
+  "Tanystropheus": {
+    "image": "Tanystropheus.png",
+    "xray_image": "Tanystropheus_skeleton.png"
+  },
+  "Tarbosaurus": {
+    "image": "Tarbosaurus.png",
+    "xray_image": "Tarbosaurus_skeleton.png"
+  },
+  "Teleosaurus": {
+    "image": "Teleosaurus.png",
+    "xray_image": "Teleosaurus_skeleton.png"
+  },
+  "Temnodontosaurus": {
+    "image": "Temnodontosaurus.png",
+    "xray_image": "Temnodontosaurus_skeleton.png"
+  },
+  "Tenontosaurus": {
+    "image": "Tenontosaurus.png",
+    "xray_image": "Tenontosaurus_skeleton.png"
+  },
+  "Teratosaurus": {
+    "image": "Teratosaurus.png",
+    "xray_image": "Teratosaurus_skeleton.png"
+  },
+  "Terrestrisuchus": {
+    "image": "Terrestrisuchus.png",
+    "xray_image": "Terrestrisuchus_skeleton.png"
+  },
+  "Testudo": {
+    "image": "Testudo.png",
+    "xray_image": "Testudo_skeleton.png"
+  },
+  "Thadeosaurus": {
+    "image": "Thadeosaurus.png",
+    "xray_image": "Thadeosaurus_skeleton.png"
+  },
+  "Thecodontosaurus": {
+    "image": "Thecodontosaurus.png",
+    "xray_image": "Thecodontosaurus_skeleton.png"
+  },
+  "Thelodus": {
+    "image": "Thelodus.png",
+    "xray_image": "Thelodus_skeleton.png"
+  },
+  "Thescelosaurus": {
+    "image": "Thescelosaurus.png",
+    "xray_image": "Thescelosaurus_skeleton.png"
+  },
+  "Thrinaxodon": {
+    "image": "Thrinaxodon.png",
+    "xray_image": "Thrinaxodon_skeleton.png"
+  },
+  "Ticinosuchus": {
+    "image": "Ticinosuchus.png",
+    "xray_image": "Ticinosuchus_skeleton.png"
+  },
+  "Titanosuchus": {
+    "image": "Titanosuchus.png",
+    "xray_image": "Titanosuchus_skeleton.png"
+  },
+  "Torosaurus": {
+    "image": "Torosaurus.png",
+    "xray_image": "Torosaurus_skeleton.png"
+  },
+  "Tremataspis": {
+    "image": "Tremataspis.png",
+    "xray_image": "Tremataspis_skeleton.png"
+  },
+  "Triadobatrachus": {
+    "image": "Triadobatrachus.png",
+    "xray_image": "Triadobatrachus_skeleton.png"
+  },
+  "Triceratops": {
+    "image": "Triceratops.png",
+    "xray_image": "Triceratops_skeleton.png"
+  },
+  "Tristychius": {
+    "image": "Tristychius.png",
+    "xray_image": "Tristychius_skeleton.png"
+  },
+  "Tsintaosaurus": {
+    "image": "Tsintaosaurus.png",
+    "xray_image": "Tsintaosaurus_skeleton.png"
+  },
+  "Tuojiangosaurus": {
+    "image": "Tuojiangosaurus.png",
+    "xray_image": "Tuojiangosaurus_skeleton.png"
+  },
+  "Tyrannosaurus": {
+    "image": "Tyrannosaurus.png",
+    "xray_image": "Tyrannosaurus_skeleton.png"
+  },
+  "Varanosaurus": {
+    "image": "Varanosaurus.png",
+    "xray_image": "Varanosaurus_skeleton.png"
+  },
+  "Velociraptor": {
+    "image": "Velociraptor.png",
+    "xray_image": "Velociraptor_skeleton.png"
+  },
+  "Vieraella": {
+    "image": "Vieraella.png",
+    "xray_image": "Vieraella_skeleton.png"
+  },
+  "Wuerhosaurus": {
+    "image": "Wuerhosaurus.png",
+    "xray_image": "Wuerhosaurus_skeleton.png"
+  },
+  "Xenacanthus": {
+    "image": "Xenacanthus.png",
+    "xray_image": "Xenacanthus_skeleton.png"
+  },
+  "Yinlong Downsi": {
+    "image": "Yinlong Downsi.png",
+    "xray_image": "Yinlong Downsi_skeleton.png"
+  },
+  "Zalambdalestes": {
+    "image": "Zalambdalestes.png",
+    "xray_image": "Zalambdalestes_skeleton.png"
+  }
+}

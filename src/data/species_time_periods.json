@@ -1,0 +1,1286 @@
+{
+  "Acanthostega": {
+    "lived_from_ma": 370,
+    "lived_to_ma": 365
+  },
+  "Acrocanthosaurus": {
+    "lived_from_ma": 115,
+    "lived_to_ma": 105
+  },
+  "Aepyornis": {
+    "lived_from_ma": 2.58,
+    "lived_to_ma": 0.01
+  },
+  "Alamosaurus": {
+    "lived_from_ma": 71,
+    "lived_to_ma": 66
+  },
+  "Albertosaurus": {
+    "lived_from_ma": 71,
+    "lived_to_ma": 68
+  },
+  "Alioramus": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 70
+  },
+  "Allosaurus": {
+    "lived_from_ma": 157,
+    "lived_to_ma": 145
+  },
+  "Alphadon": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 66
+  },
+  "Amphicoelias": {
+    "lived_from_ma": 150,
+    "lived_to_ma": 145
+  },
+  "Anchisaurus": {
+    "lived_from_ma": 195,
+    "lived_to_ma": 185
+  },
+  "Ankylosaurus": {
+    "lived_from_ma": 68,
+    "lived_to_ma": 66
+  },
+  "Anurognathus": {
+    "lived_from_ma": 150.8,
+    "lived_to_ma": 145
+  },
+  "Apatosaurus": {
+    "lived_from_ma": 156,
+    "lived_to_ma": 151
+  },
+  "Araeoscelis": {
+    "lived_from_ma": 285,
+    "lived_to_ma": 275
+  },
+  "Arandaspis": {
+    "lived_from_ma": 480,
+    "lived_to_ma": 470
+  },
+  "Archaeopteryx": {
+    "lived_from_ma": 150,
+    "lived_to_ma": 145
+  },
+  "Archaeothyris": {
+    "lived_from_ma": 312,
+    "lived_to_ma": 300
+  },
+  "Archelon": {
+    "lived_from_ma": 100,
+    "lived_to_ma": 66
+  },
+  "Arctops": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 251
+  },
+  "Ardeosaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Argentavis": {
+    "lived_from_ma": 11.6,
+    "lived_to_ma": 5.333
+  },
+  "Argentinosaurus": {
+    "lived_from_ma": 97,
+    "lived_to_ma": 93.5
+  },
+  "Askeptosaurus": {
+    "lived_from_ma": 242,
+    "lived_to_ma": 235
+  },
+  "Aspidorhynchus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Bactrosaurus": {
+    "lived_from_ma": 96,
+    "lived_to_ma": 85
+  },
+  "Barapasaurus": {
+    "lived_from_ma": 183,
+    "lived_to_ma": 174
+  },
+  "Baryonyx": {
+    "lived_from_ma": 130,
+    "lived_to_ma": 125
+  },
+  "Bernissartia": {
+    "lived_from_ma": 145,
+    "lived_to_ma": 66
+  },
+  "Boreaspis": {
+    "lived_from_ma": 416,
+    "lived_to_ma": 398
+  },
+  "Bothriolepis": {
+    "lived_from_ma": 390,
+    "lived_to_ma": 358
+  },
+  "Brachiosaurus": {
+    "lived_from_ma": 156,
+    "lived_to_ma": 145
+  },
+  "Cacops": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 272
+  },
+  "Camarasaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Camptosaurus": {
+    "lived_from_ma": 156.3,
+    "lived_to_ma": 146.8
+  },
+  "Canobius": {
+    "lived_from_ma": 346.7,
+    "lived_to_ma": 330.9
+  },
+  "Carcharodontosaurus": {
+    "lived_from_ma": 99,
+    "lived_to_ma": 94
+  },
+  "Casea": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 272
+  },
+  "Cearadactylus": {
+    "lived_from_ma": 115,
+    "lived_to_ma": 110
+  },
+  "Centrosaurus": {
+    "lived_from_ma": 76.5,
+    "lived_to_ma": 75
+  },
+  "Cephalaspis": {
+    "lived_from_ma": 416,
+    "lived_to_ma": 398
+  },
+  "Ceratodus": {
+    "lived_from_ma": 228,
+    "lived_to_ma": 70
+  },
+  "Ceratosaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Ceresiosaurus": {
+    "lived_from_ma": 242,
+    "lived_to_ma": 237
+  },
+  "Cetiosaurus": {
+    "lived_from_ma": 170,
+    "lived_to_ma": 160
+  },
+  "Champsosaurus": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 50
+  },
+  "Chasmatosaurus": {
+    "lived_from_ma": 251,
+    "lived_to_ma": 247.2
+  },
+  "Chasmosaurus": {
+    "lived_from_ma": 76,
+    "lived_to_ma": 70
+  },
+  "Cheirolepis": {
+    "lived_from_ma": 408,
+    "lived_to_ma": 360
+  },
+  "Cladoselache": {
+    "lived_from_ma": 385,
+    "lived_to_ma": 359
+  },
+  "Claudiosaurus": {
+    "lived_from_ma": 254,
+    "lived_to_ma": 251
+  },
+  "Climatius": {
+    "lived_from_ma": 419,
+    "lived_to_ma": 360
+  },
+  "Cobelodus": {
+    "lived_from_ma": 323,
+    "lived_to_ma": 299
+  },
+  "Coccosteus": {
+    "lived_from_ma": 393,
+    "lived_to_ma": 383
+  },
+  "Coelophysis": {
+    "lived_from_ma": 228,
+    "lived_to_ma": 201
+  },
+  "Coelurosauravus": {
+    "lived_from_ma": 260,
+    "lived_to_ma": 251
+  },
+  "Coelurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Compsognathus": {
+    "lived_from_ma": 150,
+    "lived_to_ma": 145
+  },
+  "Corythosaurus": {
+    "lived_from_ma": 76,
+    "lived_to_ma": 74
+  },
+  "Cotylorhynchus": {
+    "lived_from_ma": 279,
+    "lived_to_ma": 270
+  },
+  "Crassigyrinus": {
+    "lived_from_ma": 323,
+    "lived_to_ma": 307
+  },
+  "Crusafontia": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 66
+  },
+  "Cryptocleidus": {
+    "lived_from_ma": 160,
+    "lived_to_ma": 155
+  },
+  "Ctenurella": {
+    "lived_from_ma": 393,
+    "lived_to_ma": 383
+  },
+  "Cyclurus": {
+    "lived_from_ma": 145,
+    "lived_to_ma": 33
+  },
+  "Cymbospondylus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Cynognathus": {
+    "lived_from_ma": 251,
+    "lived_to_ma": 247.2
+  },
+  "Dapedium": {
+    "lived_from_ma": 201.3,
+    "lived_to_ma": 174.1
+  },
+  "Dartmuthia": {
+    "lived_from_ma": 443.8,
+    "lived_to_ma": 419.2
+  },
+  "Daspletosaurus": {
+    "lived_from_ma": 77,
+    "lived_to_ma": 74
+  },
+  "Deinonychus": {
+    "lived_from_ma": 115,
+    "lived_to_ma": 108
+  },
+  "Deinosuchus": {
+    "lived_from_ma": 83,
+    "lived_to_ma": 72
+  },
+  "Deltoptychius": {
+    "lived_from_ma": 323,
+    "lived_to_ma": 307
+  },
+  "Desmatosuchus": {
+    "lived_from_ma": 228,
+    "lived_to_ma": 215
+  },
+  "Diatryma": {
+    "lived_from_ma": 56,
+    "lived_to_ma": 47.8
+  },
+  "Dicraeosaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Dicynodon": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Dilophosaurus": {
+    "lived_from_ma": 199,
+    "lived_to_ma": 182
+  },
+  "Dimetrodon": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 265
+  },
+  "Dimorphodon": {
+    "lived_from_ma": 200,
+    "lived_to_ma": 190
+  },
+  "Dinichthys": {
+    "lived_from_ma": 374,
+    "lived_to_ma": 360
+  },
+  "Dinornis": {
+    "lived_from_ma": 2.58,
+    "lived_to_ma": 0.01
+  },
+  "Diplocaulus": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 251
+  },
+  "Diplodocus": {
+    "lived_from_ma": 154,
+    "lived_to_ma": 145
+  },
+  "Dipnorhynchus": {
+    "lived_from_ma": 400,
+    "lived_to_ma": 393
+  },
+  "Dipterus": {
+    "lived_from_ma": 392,
+    "lived_to_ma": 382
+  },
+  "Dodo": {
+    "lived_from_ma": 23.03,
+    "lived_to_ma": 0.01
+  },
+  "Doryaspis": {
+    "lived_from_ma": 419.2,
+    "lived_to_ma": 393.3
+  },
+  "Drepanaspis": {
+    "lived_from_ma": 419.2,
+    "lived_to_ma": 393.3
+  },
+  "Dromaeosaurus": {
+    "lived_from_ma": 80,
+    "lived_to_ma": 66
+  },
+  "Dromiceiomimus": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 66
+  },
+  "Dryosaurus": {
+    "lived_from_ma": 156.3,
+    "lived_to_ma": 146.8
+  },
+  "Dsungaripterus": {
+    "lived_from_ma": 130,
+    "lived_to_ma": 110
+  },
+  "Dunkleosteus": {
+    "lived_from_ma": 382,
+    "lived_to_ma": 358
+  },
+  "Echinodon": {
+    "lived_from_ma": 145,
+    "lived_to_ma": 130
+  },
+  "Edaphosaurus": {
+    "lived_from_ma": 303,
+    "lived_to_ma": 272
+  },
+  "Edmontosaurus": {
+    "lived_from_ma": 73,
+    "lived_to_ma": 66
+  },
+  "Efraasia": {
+    "lived_from_ma": 215,
+    "lived_to_ma": 201.3
+  },
+  "Elaphrosaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Elasmosaurus": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 65
+  },
+  "Elginia": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Emeus": {
+    "lived_from_ma": 23.03,
+    "lived_to_ma": 0.01
+  },
+  "Eogyrinus": {
+    "lived_from_ma": 318,
+    "lived_to_ma": 307
+  },
+  "Ericiolacerta": {
+    "lived_from_ma": 251,
+    "lived_to_ma": 247.2
+  },
+  "Eryops": {
+    "lived_from_ma": 310,
+    "lived_to_ma": 295
+  },
+  "Erythrosuchus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 242
+  },
+  "Eudimorphodon": {
+    "lived_from_ma": 210,
+    "lived_to_ma": 200
+  },
+  "Euhelopus": {
+    "lived_from_ma": 145,
+    "lived_to_ma": 100.5
+  },
+  "Euoplocephalus": {
+    "lived_from_ma": 76,
+    "lived_to_ma": 66
+  },
+  "Euparkeria": {
+    "lived_from_ma": 248,
+    "lived_to_ma": 245
+  },
+  "Eurhinosaurus": {
+    "lived_from_ma": 183,
+    "lived_to_ma": 174
+  },
+  "Eusthenopteron": {
+    "lived_from_ma": 383.7,
+    "lived_to_ma": 372.2
+  },
+  "Eustreptospondylus": {
+    "lived_from_ma": 167,
+    "lived_to_ma": 164
+  },
+  "Gallimimus": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 70
+  },
+  "Gemuendina": {
+    "lived_from_ma": 409,
+    "lived_to_ma": 403
+  },
+  "Gerrothorax": {
+    "lived_from_ma": 215,
+    "lived_to_ma": 201.3
+  },
+  "Giganotosaurus": {
+    "lived_from_ma": 100,
+    "lived_to_ma": 97
+  },
+  "Gracilisuchus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Great Auk": {
+    "lived_from_ma": 2.58,
+    "lived_to_ma": 0.01
+  },
+  "Greererpeton": {
+    "lived_from_ma": 330.9,
+    "lived_to_ma": 323.2
+  },
+  "Griphognathus": {
+    "lived_from_ma": 383.7,
+    "lived_to_ma": 372.2
+  },
+  "Groenlandaspis": {
+    "lived_from_ma": 383.7,
+    "lived_to_ma": 372.2
+  },
+  "Gyroptychius": {
+    "lived_from_ma": 393.3,
+    "lived_to_ma": 383.7
+  },
+  "Hadrosaurus": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 77.9
+  },
+  "Haramiyia": {
+    "lived_from_ma": 228,
+    "lived_to_ma": 201.3
+  },
+  "Harpagornis": {
+    "lived_from_ma": 2.58,
+    "lived_to_ma": 0.01
+  },
+  "Helicoprion": {
+    "lived_from_ma": 290,
+    "lived_to_ma": 230
+  },
+  "Hemicyclaspis": {
+    "lived_from_ma": 423.0,
+    "lived_to_ma": 419.2
+  },
+  "Henodus": {
+    "lived_from_ma": 242,
+    "lived_to_ma": 235
+  },
+  "Hesperornis": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 66
+  },
+  "Heterodontosaurus": {
+    "lived_from_ma": 200,
+    "lived_to_ma": 145
+  },
+  "Holoptychius": {
+    "lived_from_ma": 383.7,
+    "lived_to_ma": 372.2
+  },
+  "Homalcocephale": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 68
+  },
+  "Hovasaurus": {
+    "lived_from_ma": 254,
+    "lived_to_ma": 251
+  },
+  "Hybodus": {
+    "lived_from_ma": 260,
+    "lived_to_ma": 75
+  },
+  "Hylaeosaurus": {
+    "lived_from_ma": 132,
+    "lived_to_ma": 113
+  },
+  "Hylonomus": {
+    "lived_from_ma": 318,
+    "lived_to_ma": 312
+  },
+  "Hypacrosaurus": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 67
+  },
+  "Hyperodapedon": {
+    "lived_from_ma": 235,
+    "lived_to_ma": 228
+  },
+  "Hypsilophodon": {
+    "lived_from_ma": 130,
+    "lived_to_ma": 125
+  },
+  "Hypsognathus": {
+    "lived_from_ma": 208,
+    "lived_to_ma": 201.3
+  },
+  "Ichthyornis": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 66
+  },
+  "Ichthyosaurus": {
+    "lived_from_ma": 199,
+    "lived_to_ma": 189
+  },
+  "Ichthyostega": {
+    "lived_from_ma": 367,
+    "lived_to_ma": 362
+  },
+  "Iguanodon": {
+    "lived_from_ma": 140,
+    "lived_to_ma": 110
+  },
+  "Ischnacanthus": {
+    "lived_from_ma": 419,
+    "lived_to_ma": 410
+  },
+  "Ischyodus": {
+    "lived_from_ma": 174.1,
+    "lived_to_ma": 66
+  },
+  "Jamoytius": {
+    "lived_from_ma": 444,
+    "lived_to_ma": 433
+  },
+  "Kannemeyeria": {
+    "lived_from_ma": 251,
+    "lived_to_ma": 247.2
+  },
+  "Karaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Kentrosaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 150
+  },
+  "Keraterpeton": {
+    "lived_from_ma": 318,
+    "lived_to_ma": 307
+  },
+  "Kritosaurus": {
+    "lived_from_ma": 74.5,
+    "lived_to_ma": 66
+  },
+  "Kronosaurus": {
+    "lived_from_ma": 120,
+    "lived_to_ma": 100
+  },
+  "Kuehneosaurus": {
+    "lived_from_ma": 235,
+    "lived_to_ma": 208
+  },
+  "Labidosaurus": {
+    "lived_from_ma": 290,
+    "lived_to_ma": 272
+  },
+  "Lagosuchus": {
+    "lived_from_ma": 237,
+    "lived_to_ma": 228
+  },
+  "Lambeosaurus": {
+    "lived_from_ma": 76,
+    "lived_to_ma": 75
+  },
+  "Lariosaurus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Latimeria": {
+    "lived_from_ma": 420,
+    "lived_to_ma": 0
+  },
+  "Leptolepis": {
+    "lived_from_ma": 200,
+    "lived_to_ma": 146
+  },
+  "Lesothosaurus": {
+    "lived_from_ma": 201,
+    "lived_to_ma": 190
+  },
+  "Limnofregata": {
+    "lived_from_ma": 47.8,
+    "lived_to_ma": 33.9
+  },
+  "Liopleurodon": {
+    "lived_from_ma": 166,
+    "lived_to_ma": 155
+  },
+  "Longisquama": {
+    "lived_from_ma": 237,
+    "lived_to_ma": 228
+  },
+  "Lycaenops": {
+    "lived_from_ma": 272.3,
+    "lived_to_ma": 259.8
+  },
+  "Lystrosaurus": {
+    "lived_from_ma": 252,
+    "lived_to_ma": 248
+  },
+  "Macroplata": {
+    "lived_from_ma": 199.3,
+    "lived_to_ma": 190.8
+  },
+  "Macropoma": {
+    "lived_from_ma": 145,
+    "lived_to_ma": 66
+  },
+  "Maiasaura": {
+    "lived_from_ma": 80,
+    "lived_to_ma": 75
+  },
+  "Mamenchisaurus": {
+    "lived_from_ma": 163.5,
+    "lived_to_ma": 145
+  },
+  "Massetognathus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Massospondylus": {
+    "lived_from_ma": 201.3,
+    "lived_to_ma": 182.7
+  },
+  "Megalania": {
+    "lived_from_ma": 2.58,
+    "lived_to_ma": 0.01
+  },
+  "Megalosaurus": {
+    "lived_from_ma": 168,
+    "lived_to_ma": 166
+  },
+  "Megazostrodon": {
+    "lived_from_ma": 201.3,
+    "lived_to_ma": 182.7
+  },
+  "Meiolania": {
+    "lived_from_ma": 5.333,
+    "lived_to_ma": 0.01
+  },
+  "Mesosaurus": {
+    "lived_from_ma": 285,
+    "lived_to_ma": 275
+  },
+  "Metriorhynchus": {
+    "lived_from_ma": 167,
+    "lived_to_ma": 145
+  },
+  "Milleretta": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Mixosaurus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Mosasaurus": {
+    "lived_from_ma": 82.7,
+    "lived_to_ma": 66
+  },
+  "Moschops": {
+    "lived_from_ma": 272.3,
+    "lived_to_ma": 259.8
+  },
+  "Moythomasia": {
+    "lived_from_ma": 383.7,
+    "lived_to_ma": 372.2
+  },
+  "Muraenosaurus": {
+    "lived_from_ma": 164.7,
+    "lived_to_ma": 163.5
+  },
+  "Mussaurus": {
+    "lived_from_ma": 215,
+    "lived_to_ma": 201.3
+  },
+  "Neocathartes": {
+    "lived_from_ma": 47.8,
+    "lived_to_ma": 33.9
+  },
+  "Nodosaurus": {
+    "lived_from_ma": 110,
+    "lived_to_ma": 90
+  },
+  "Nothosaurus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Oligokyphus": {
+    "lived_from_ma": 201.3,
+    "lived_to_ma": 174.1
+  },
+  "Ophiacodon": {
+    "lived_from_ma": 318,
+    "lived_to_ma": 265
+  },
+  "Ophiderpeton": {
+    "lived_from_ma": 318,
+    "lived_to_ma": 299
+  },
+  "Ophthalmosaurus": {
+    "lived_from_ma": 165,
+    "lived_to_ma": 150
+  },
+  "Opisthocoelicaudia": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 70
+  },
+  "Ornitholestes": {
+    "lived_from_ma": 161,
+    "lived_to_ma": 145
+  },
+  "Ornithomimus": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 66
+  },
+  "Ornithosuchus": {
+    "lived_from_ma": 237,
+    "lived_to_ma": 227
+  },
+  "Osteodontornis": {
+    "lived_from_ma": 15.97,
+    "lived_to_ma": 11.6
+  },
+  "Osteolepis": {
+    "lived_from_ma": 416,
+    "lived_to_ma": 359
+  },
+  "Oviraptor": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 75
+  },
+  "Pachycephalosaurus": {
+    "lived_from_ma": 72,
+    "lived_to_ma": 66
+  },
+  "Pachyrhachis": {
+    "lived_from_ma": 100.5,
+    "lived_to_ma": 93.9
+  },
+  "Pachyrhinosaurus": {
+    "lived_from_ma": 73.5,
+    "lived_to_ma": 69
+  },
+  "Palaelodus": {
+    "lived_from_ma": 23.03,
+    "lived_to_ma": 5.333
+  },
+  "Palaeobatrachus": {
+    "lived_from_ma": 56,
+    "lived_to_ma": 11.6
+  },
+  "Palaeoniscum": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 252
+  },
+  "Palaeospondylus": {
+    "lived_from_ma": 393.3,
+    "lived_to_ma": 383.7
+  },
+  "Palaeotrionyx": {
+    "lived_from_ma": 56,
+    "lived_to_ma": 33.9
+  },
+  "Panoplosaurus": {
+    "lived_from_ma": 76,
+    "lived_to_ma": 75
+  },
+  "Pantylus": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 272
+  },
+  "Paracyclotosaurus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Parasaurolophus": {
+    "lived_from_ma": 76.9,
+    "lived_to_ma": 66.04
+  },
+  "Pareiasaurus": {
+    "lived_from_ma": 265,
+    "lived_to_ma": 252
+  },
+  "Peloneustes": {
+    "lived_from_ma": 166.1,
+    "lived_to_ma": 163.5
+  },
+  "Peltobatrachus": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Perleidus": {
+    "lived_from_ma": 252,
+    "lived_to_ma": 201.3
+  },
+  "Petrolacosaurus": {
+    "lived_from_ma": 302,
+    "lived_to_ma": 300
+  },
+  "Pharyngolepis": {
+    "lived_from_ma": 419.2,
+    "lived_to_ma": 407.6
+  },
+  "Phorusrhacus": {
+    "lived_from_ma": 33.9,
+    "lived_to_ma": 5.333
+  },
+  "Phthinosuchus": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Pisanosaurus": {
+    "lived_from_ma": 228,
+    "lived_to_ma": 215
+  },
+  "Pistosaurus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237.0
+  },
+  "Placochelys": {
+    "lived_from_ma": 237,
+    "lived_to_ma": 228
+  },
+  "Placodus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237
+  },
+  "Planocephalosaurus": {
+    "lived_from_ma": 235,
+    "lived_to_ma": 228
+  },
+  "Platecarpus": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 66
+  },
+  "Plateosaurus": {
+    "lived_from_ma": 214,
+    "lived_to_ma": 204
+  },
+  "Platyhystrix": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 272
+  },
+  "Platysomus": {
+    "lived_from_ma": 345,
+    "lived_to_ma": 255
+  },
+  "Plesiosaurus": {
+    "lived_from_ma": 199.5,
+    "lived_to_ma": 192.9
+  },
+  "Pleurosaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Pliosaurus": {
+    "lived_from_ma": 154,
+    "lived_to_ma": 137
+  },
+  "Plotosaurus": {
+    "lived_from_ma": 72.1,
+    "lived_to_ma": 66
+  },
+  "Polacanthus": {
+    "lived_from_ma": 130,
+    "lived_to_ma": 125
+  },
+  "Postosuchus": {
+    "lived_from_ma": 230,
+    "lived_to_ma": 208
+  },
+  "Prenocephale": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 68
+  },
+  "Presbyornis": {
+    "lived_from_ma": 66,
+    "lived_to_ma": 28.1
+  },
+  "Pristichampsus": {
+    "lived_from_ma": 56,
+    "lived_to_ma": 33.9
+  },
+  "Procompsognathus": {
+    "lived_from_ma": 215,
+    "lived_to_ma": 201.3
+  },
+  "Procynosuchus": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Proganochelys": {
+    "lived_from_ma": 210,
+    "lived_to_ma": 200
+  },
+  "Prosaurolophus": {
+    "lived_from_ma": 76.9,
+    "lived_to_ma": 66.04
+  },
+  "Proterosuchus": {
+    "lived_from_ma": 251.9,
+    "lived_to_ma": 247.2
+  },
+  "Protorosaurus": {
+    "lived_from_ma": 265.8,
+    "lived_to_ma": 252.2
+  },
+  "Protostega": {
+    "lived_from_ma": 100,
+    "lived_to_ma": 66
+  },
+  "Protosuchus": {
+    "lived_from_ma": 228,
+    "lived_to_ma": 202
+  },
+  "Pteranodon": {
+    "lived_from_ma": 86,
+    "lived_to_ma": 78.25
+  },
+  "Pteraspis": {
+    "lived_from_ma": 416,
+    "lived_to_ma": 398
+  },
+  "Pterodactylus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Pterodaustro": {
+    "lived_from_ma": 110,
+    "lived_to_ma": 100
+  },
+  "Pteronisculus": {
+    "lived_from_ma": 252,
+    "lived_to_ma": 237
+  },
+  "Ptilodus": {
+    "lived_from_ma": 66,
+    "lived_to_ma": 56
+  },
+  "Purgatorius": {
+    "lived_from_ma": 69,
+    "lived_to_ma": 63
+  },
+  "Pycnodus": {
+    "lived_from_ma": 145,
+    "lived_to_ma": 33.9
+  },
+  "Quetzalcoatlus": {
+    "lived_from_ma": 68,
+    "lived_to_ma": 66
+  },
+  "Rhamphorhynchus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Riojasaurus": {
+    "lived_from_ma": 228,
+    "lived_to_ma": 208
+  },
+  "Robertia": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Rutiodon": {
+    "lived_from_ma": 235,
+    "lived_to_ma": 208
+  },
+  "Saichania": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 70.6
+  },
+  "Saltasaurus": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 66
+  },
+  "Saltopus": {
+    "lived_from_ma": 237,
+    "lived_to_ma": 228
+  },
+  "Sarcosuchus": {
+    "lived_from_ma": 133,
+    "lived_to_ma": 110
+  },
+  "Saurichthys": {
+    "lived_from_ma": 252,
+    "lived_to_ma": 201
+  },
+  "Saurolophus": {
+    "lived_from_ma": 83,
+    "lived_to_ma": 66
+  },
+  "Sauropelta": {
+    "lived_from_ma": 116,
+    "lived_to_ma": 91
+  },
+  "Saurornithoides": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 70
+  },
+  "Saurornitholestes": {
+    "lived_from_ma": 79.5,
+    "lived_to_ma": 70.6
+  },
+  "Scapanorhynchus": {
+    "lived_from_ma": 100.5,
+    "lived_to_ma": 0
+  },
+  "Scaphognathus": {
+    "lived_from_ma": 155.7,
+    "lived_to_ma": 150.8
+  },
+  "Scutellosaurus": {
+    "lived_from_ma": 199.3,
+    "lived_to_ma": 190.8
+  },
+  "Scutosaurus": {
+    "lived_from_ma": 259,
+    "lived_to_ma": 252
+  },
+  "Seymouria": {
+    "lived_from_ma": 280,
+    "lived_to_ma": 270
+  },
+  "Shantungosaurus": {
+    "lived_from_ma": 83,
+    "lived_to_ma": 74
+  },
+  "Shonisaurus": {
+    "lived_from_ma": 227,
+    "lived_to_ma": 212
+  },
+  "Silvisaurus": {
+    "lived_from_ma": 121,
+    "lived_to_ma": 112
+  },
+  "Sordes": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Spathobatis": {
+    "lived_from_ma": 157.3,
+    "lived_to_ma": 152.1
+  },
+  "Sphenacodon": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 272
+  },
+  "Spinosaurus": {
+    "lived_from_ma": 112,
+    "lived_to_ma": 93
+  },
+  "Stagonolepis": {
+    "lived_from_ma": 235,
+    "lived_to_ma": 228
+  },
+  "Stegoceras": {
+    "lived_from_ma": 77,
+    "lived_to_ma": 74
+  },
+  "Stegosaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Stenonychosaurus": {
+    "lived_from_ma": 77,
+    "lived_to_ma": 70.6
+  },
+  "Stenopterygius": {
+    "lived_from_ma": 183,
+    "lived_to_ma": 174
+  },
+  "Stethacanthus": {
+    "lived_from_ma": 390,
+    "lived_to_ma": 320
+  },
+  "Strunius": {
+    "lived_from_ma": 372.2,
+    "lived_to_ma": 358.9
+  },
+  "Struthiosaurus": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 66
+  },
+  "Stupendemys": {
+    "lived_from_ma": 11.6,
+    "lived_to_ma": 5.333
+  },
+  "Styracosaurus": {
+    "lived_from_ma": 75.5,
+    "lived_to_ma": 74.5
+  },
+  "Supersaurus": {
+    "lived_from_ma": 155,
+    "lived_to_ma": 145
+  },
+  "Talarurus": {
+    "lived_from_ma": 96,
+    "lived_to_ma": 89
+  },
+  "Tanystropheus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 208.5
+  },
+  "Tarbosaurus": {
+    "lived_from_ma": 72,
+    "lived_to_ma": 66
+  },
+  "Teleosaurus": {
+    "lived_from_ma": 183,
+    "lived_to_ma": 174
+  },
+  "Temnodontosaurus": {
+    "lived_from_ma": 199.3,
+    "lived_to_ma": 182.7
+  },
+  "Tenontosaurus": {
+    "lived_from_ma": 120,
+    "lived_to_ma": 100
+  },
+  "Teratosaurus": {
+    "lived_from_ma": 215,
+    "lived_to_ma": 201.3
+  },
+  "Terrestrisuchus": {
+    "lived_from_ma": 215,
+    "lived_to_ma": 201.3
+  },
+  "Testudo": {
+    "lived_from_ma": 40,
+    "lived_to_ma": 0
+  },
+  "Thadeosaurus": {
+    "lived_from_ma": 254,
+    "lived_to_ma": 251
+  },
+  "Thecodontosaurus": {
+    "lived_from_ma": 215,
+    "lived_to_ma": 201.3
+  },
+  "Thelodus": {
+    "lived_from_ma": 443.8,
+    "lived_to_ma": 393.3
+  },
+  "Thescelosaurus": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 66
+  },
+  "Thrinaxodon": {
+    "lived_from_ma": 251,
+    "lived_to_ma": 247.2
+  },
+  "Ticinosuchus": {
+    "lived_from_ma": 247.2,
+    "lived_to_ma": 237.0
+  },
+  "Titanosuchus": {
+    "lived_from_ma": 272.3,
+    "lived_to_ma": 259.8
+  },
+  "Torosaurus": {
+    "lived_from_ma": 68,
+    "lived_to_ma": 66
+  },
+  "Tremataspis": {
+    "lived_from_ma": 419.2,
+    "lived_to_ma": 410.8
+  },
+  "Triadobatrachus": {
+    "lived_from_ma": 251,
+    "lived_to_ma": 247.2
+  },
+  "Triceratops": {
+    "lived_from_ma": 68,
+    "lived_to_ma": 66
+  },
+  "Tristychius": {
+    "lived_from_ma": 330.9,
+    "lived_to_ma": 323.2
+  },
+  "Tsintaosaurus": {
+    "lived_from_ma": 83.6,
+    "lived_to_ma": 72.1
+  },
+  "Tuojiangosaurus": {
+    "lived_from_ma": 168,
+    "lived_to_ma": 146
+  },
+  "Tyrannosaurus": {
+    "lived_from_ma": 68,
+    "lived_to_ma": 66
+  },
+  "Varanosaurus": {
+    "lived_from_ma": 299,
+    "lived_to_ma": 272
+  },
+  "Velociraptor": {
+    "lived_from_ma": 75,
+    "lived_to_ma": 71
+  },
+  "Vieraella": {
+    "lived_from_ma": 201.3,
+    "lived_to_ma": 174.1
+  },
+  "Wuerhosaurus": {
+    "lived_from_ma": 132,
+    "lived_to_ma": 113
+  },
+  "Xenacanthus": {
+    "lived_from_ma": 360,
+    "lived_to_ma": 208
+  },
+  "Yinlong Downsi": {
+    "lived_from_ma": 161,
+    "lived_to_ma": 155
+  },
+  "Zalambdalestes": {
+    "lived_from_ma": 85,
+    "lived_to_ma": 70
+  }
+}

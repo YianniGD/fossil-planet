@@ -1,0 +1,21 @@
+{
+  "short_name": "Fossil Planet",
+  "name": "Fossil Planet",
+  "description": "A web application to explore fossils and prehistoric creatures.",
+  "icons": [
+    {
+      "src": "/Fossil-Planet/animals/icons/Allosaurusicon.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/Fossil-Planet/animals/icons/Allosaurusicon.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/Fossil-Planet/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

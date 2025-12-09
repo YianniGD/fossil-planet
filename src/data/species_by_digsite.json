@@ -1,0 +1,846 @@
+[
+  {
+    "dig_site": "Canis Formation",
+    "species": [
+      "Acanthostega",
+      "Ichthyostega"
+    ]
+  },
+  {
+    "dig_site": "Antlers Formation",
+    "species": [
+      "Acrocanthosaurus"
+    ]
+  },
+  {
+    "dig_site": "Madagascar",
+    "species": [
+      "Aepyornis",
+      "Claudiosaurus",
+      "Coelurosauravus",
+      "Hovasaurus",
+      "Thadeosaurus",
+      "Triadobatrachus"
+    ]
+  },
+  {
+    "dig_site": "New Mexico",
+    "species": [
+      "Alamosaurus",
+      "Diatryma",
+      "Palaeotrionyx",
+      "Platyhystrix",
+      "Ptilodus",
+      "Sphenacodon"
+    ]
+  },
+  {
+    "dig_site": "Horseshoe Canyon Formation",
+    "species": [
+      "Albertosaurus",
+      "Dromiceiomimus",
+      "Edmontosaurus",
+      "Hypacrosaurus",
+      "Ornithomimus",
+      "Pachyrhinosaurus"
+    ]
+  },
+  {
+    "dig_site": "Nemegt Formation",
+    "species": [
+      "Alioramus",
+      "Bactrosaurus",
+      "Gallimimus",
+      "Opisthocoelicaudia",
+      "Saichania",
+      "Saurolophus",
+      "Talarurus",
+      "Tarbosaurus"
+    ]
+  },
+  {
+    "dig_site": "Morrison Formation",
+    "species": [
+      "Allosaurus",
+      "Amphicoelias",
+      "Apatosaurus",
+      "Brachiosaurus",
+      "Camarasaurus",
+      "Camptosaurus",
+      "Ceratosaurus",
+      "Coelurus",
+      "Cyclurus",
+      "Diplodocus",
+      "Dryosaurus",
+      "Ornitholestes",
+      "Stegosaurus",
+      "Supersaurus"
+    ]
+  },
+  {
+    "dig_site": "Hell Creek Formation",
+    "species": [
+      "Alphadon",
+      "Ankylosaurus",
+      "Pachycephalosaurus",
+      "Scapanorhynchus",
+      "Thescelosaurus",
+      "Torosaurus",
+      "Triceratops",
+      "Tyrannosaurus"
+    ]
+  },
+  {
+    "dig_site": "Connecticut River Valley",
+    "species": [
+      "Anchisaurus"
+    ]
+  },
+  {
+    "dig_site": "Solnhofen Limestone",
+    "species": [
+      "Anurognathus",
+      "Archaeopteryx",
+      "Aspidorhynchus",
+      "Compsognathus",
+      "Leptolepis",
+      "Pterodactylus",
+      "Rhamphorhynchus",
+      "Scaphognathus"
+    ]
+  },
+  {
+    "dig_site": "Clear Fork Group",
+    "species": [
+      "Araeoscelis",
+      "Dimetrodon",
+      "Diplocaulus",
+      "Edaphosaurus",
+      "Eryops",
+      "Seymouria"
+    ]
+  },
+  {
+    "dig_site": "Stairway Sandstone",
+    "species": [
+      "Arandaspis"
+    ]
+  },
+  {
+    "dig_site": "Joggins Formation",
+    "species": [
+      "Archaeothyris",
+      "Hylonomus"
+    ]
+  },
+  {
+    "dig_site": "Niobrara Formation",
+    "species": [
+      "Archelon",
+      "Elasmosaurus",
+      "Platecarpus",
+      "Protostega",
+      "Pteranodon"
+    ]
+  },
+  {
+    "dig_site": "Karoo Basin",
+    "species": [
+      "Arctops",
+      "Cynognathus",
+      "Dicynodon",
+      "Ericiolacerta",
+      "Kannemeyeria",
+      "Lycaenops",
+      "Moschops",
+      "Procynosuchus",
+      "Proterosuchus",
+      "Robertia",
+      "Thrinaxodon",
+      "Titanosuchus"
+    ]
+  },
+  {
+    "dig_site": "Germany",
+    "species": [
+      "Ardeosaurus",
+      "Ceratodus",
+      "Drepanaspis",
+      "Efraasia",
+      "Griphognathus",
+      "Haramiyia",
+      "Henodus",
+      "Nothosaurus",
+      "Oligokyphus",
+      "Palaeobatrachus",
+      "Palaeoniscum",
+      "Pistosaurus",
+      "Placodus",
+      "Planocephalosaurus",
+      "Pleurosaurus",
+      "Procompsognathus",
+      "Protorosaurus",
+      "Saurichthys",
+      "Spathobatis",
+      "Stenopterygius",
+      "Strunius",
+      "Teratosaurus",
+      "Varanosaurus",
+      "Xenacanthus"
+    ]
+  },
+  {
+    "dig_site": "Argentina",
+    "species": [
+      "Argentavis",
+      "Giganotosaurus",
+      "Gracilisuchus",
+      "Lagosuchus",
+      "Massetognathus",
+      "Mussaurus",
+      "Phorusrhacus",
+      "Pisanosaurus",
+      "Pterodaustro",
+      "Riojasaurus",
+      "Saltasaurus",
+      "Vieraella"
+    ]
+  },
+  {
+    "dig_site": "Neuqu\u00e9n Basin",
+    "species": [
+      "Argentinosaurus"
+    ]
+  },
+  {
+    "dig_site": "Switzerland",
+    "species": [
+      "Askeptosaurus",
+      "Ceresiosaurus",
+      "Eurhinosaurus",
+      "Tanystropheus",
+      "Ticinosuchus"
+    ]
+  },
+  {
+    "dig_site": "India",
+    "species": [
+      "Barapasaurus",
+      "Hyperodapedon",
+      "Testudo"
+    ]
+  },
+  {
+    "dig_site": "England",
+    "species": [
+      "Baryonyx",
+      "Cetiosaurus",
+      "Cryptocleidus",
+      "Dapedium",
+      "Eogyrinus",
+      "Eustreptospondylus",
+      "Hemicyclaspis",
+      "Ischyodus",
+      "Kuehneosaurus",
+      "Macroplata",
+      "Macropoma",
+      "Megalosaurus",
+      "Metriorhynchus",
+      "Muraenosaurus",
+      "Ophthalmosaurus",
+      "Peloneustes",
+      "Plesiosaurus",
+      "Teleosaurus",
+      "Temnodontosaurus",
+      "Terrestrisuchus",
+      "Thecodontosaurus"
+    ]
+  },
+  {
+    "dig_site": "France",
+    "species": [
+      "Bernissartia",
+      "Palaelodus",
+      "Pristichampsus"
+    ]
+  },
+  {
+    "dig_site": "Spitzbergen",
+    "species": [
+      "Boreaspis",
+      "Doryaspis"
+    ]
+  },
+  {
+    "dig_site": "Escuminac Formation",
+    "species": [
+      "Bothriolepis",
+      "Eusthenopteron"
+    ]
+  },
+  {
+    "dig_site": "Cacops Bone Bed",
+    "species": [
+      "Cacops",
+      "Casea"
+    ]
+  },
+  {
+    "dig_site": "Scotland",
+    "species": [
+      "Canobius",
+      "Coccosteus",
+      "Crassigyrinus",
+      "Dartmuthia",
+      "Deltoptychius",
+      "Elginia",
+      "Gyroptychius",
+      "Holoptychius",
+      "Hyperodapedon",
+      "Jamoytius",
+      "Palaeospondylus",
+      "Saltopus",
+      "Stagonolepis",
+      "Stethacanthus",
+      "Tristychius"
+    ]
+  },
+  {
+    "dig_site": "Bahariya Formation",
+    "species": [
+      "Carcharodontosaurus",
+      "Spinosaurus"
+    ]
+  },
+  {
+    "dig_site": "Hennessy Formation",
+    "species": [
+      "Casea",
+      "Cotylorhynchus"
+    ]
+  },
+  {
+    "dig_site": "Brazil",
+    "species": [
+      "Cearadactylus"
+    ]
+  },
+  {
+    "dig_site": "Dinosaur Park Formation",
+    "species": [
+      "Centrosaurus",
+      "Chasmosaurus",
+      "Corythosaurus",
+      "Dromaeosaurus",
+      "Euoplocephalus",
+      "Lambeosaurus",
+      "Panoplosaurus",
+      "Parasaurolophus",
+      "Prosaurolophus",
+      "Saurolophus",
+      "Saurornitholestes",
+      "Stegoceras",
+      "Stenonychosaurus",
+      "Styracosaurus"
+    ]
+  },
+  {
+    "dig_site": "Downton Castle Sandstone",
+    "species": [
+      "Cephalaspis",
+      "Ischnacanthus",
+      "Pteraspis"
+    ]
+  },
+  {
+    "dig_site": "Elliot Formation",
+    "species": [
+      "Ceratodus",
+      "Heterodontosaurus",
+      "Lesothosaurus"
+    ]
+  },
+  {
+    "dig_site": "Judith River Formation",
+    "species": [
+      "Champsosaurus"
+    ]
+  },
+  {
+    "dig_site": "South Africa",
+    "species": [
+      "Chasmatosaurus",
+      "Erythrosuchus",
+      "Latimeria",
+      "Massospondylus",
+      "Milleretta"
+    ]
+  },
+  {
+    "dig_site": "Old Red Sandstone",
+    "species": [
+      "Cheirolepis",
+      "Dipterus",
+      "Osteolepis",
+      "Thelodus"
+    ]
+  },
+  {
+    "dig_site": "Cleveland Shale",
+    "species": [
+      "Cladoselache",
+      "Dinichthys",
+      "Dunkleosteus"
+    ]
+  },
+  {
+    "dig_site": "Lesmahagow Inlier",
+    "species": [
+      "Climatius",
+      "Jamoytius"
+    ]
+  },
+  {
+    "dig_site": "Bear Gulch Limestone",
+    "species": [
+      "Cobelodus"
+    ]
+  },
+  {
+    "dig_site": "Ghost Ranch quarry",
+    "species": [
+      "Coelophysis"
+    ]
+  },
+  {
+    "dig_site": "Spain",
+    "species": [
+      "Crusafontia"
+    ]
+  },
+  {
+    "dig_site": "Hunsr\u00fcck Slates",
+    "species": [
+      "Ctenurella",
+      "Gemuendina"
+    ]
+  },
+  {
+    "dig_site": "Nevada",
+    "species": [
+      "Cymbospondylus"
+    ]
+  },
+  {
+    "dig_site": "Oldman Formation",
+    "species": [
+      "Daspletosaurus"
+    ]
+  },
+  {
+    "dig_site": "Cloverly Formation",
+    "species": [
+      "Deinonychus",
+      "Sauropelta",
+      "Tenontosaurus"
+    ]
+  },
+  {
+    "dig_site": "Kirtland Formation",
+    "species": [
+      "Deinosuchus",
+      "Kritosaurus"
+    ]
+  },
+  {
+    "dig_site": "Chinle Formation",
+    "species": [
+      "Desmatosuchus",
+      "Postosuchus"
+    ]
+  },
+  {
+    "dig_site": "Tanzania",
+    "species": [
+      "Dicraeosaurus",
+      "Elaphrosaurus",
+      "Kentrosaurus",
+      "Peltobatrachus"
+    ]
+  },
+  {
+    "dig_site": "Kayenta Formation",
+    "species": [
+      "Dilophosaurus",
+      "Protosuchus",
+      "Scutellosaurus"
+    ]
+  },
+  {
+    "dig_site": "Lower Lias Formation",
+    "species": [
+      "Dimorphodon"
+    ]
+  },
+  {
+    "dig_site": "New Zealand",
+    "species": [
+      "Dinornis",
+      "Emeus",
+      "Harpagornis"
+    ]
+  },
+  {
+    "dig_site": "Australia",
+    "species": [
+      "Dipnorhynchus",
+      "Kronosaurus",
+      "Megalania",
+      "Meiolania",
+      "Paracyclotosaurus"
+    ]
+  },
+  {
+    "dig_site": "Mauritius",
+    "species": [
+      "Dodo"
+    ]
+  },
+  {
+    "dig_site": "Junggar Basin",
+    "species": [
+      "Dsungaripterus",
+      "Wuerhosaurus"
+    ]
+  },
+  {
+    "dig_site": "Isle of Wight",
+    "species": [
+      "Echinodon",
+      "Hypsilophodon",
+      "Polacanthus"
+    ]
+  },
+  {
+    "dig_site": "Italy",
+    "species": [
+      "Eudimorphodon",
+      "Lariosaurus",
+      "Mixosaurus",
+      "Perleidus",
+      "Pycnodus"
+    ]
+  },
+  {
+    "dig_site": "Zorzino Limestone",
+    "species": [
+      "Eudimorphodon"
+    ]
+  },
+  {
+    "dig_site": "Shandong Province",
+    "species": [
+      "Euhelopus"
+    ]
+  },
+  {
+    "dig_site": "Cynognathus Zone",
+    "species": [
+      "Euparkeria",
+      "Lystrosaurus"
+    ]
+  },
+  {
+    "dig_site": "Greenland",
+    "species": [
+      "Gerrothorax",
+      "Groenlandaspis",
+      "Ichthyostega",
+      "Moythomasia",
+      "Pteronisculus"
+    ]
+  },
+  {
+    "dig_site": "Iceland",
+    "species": [
+      "Great Auk"
+    ]
+  },
+  {
+    "dig_site": "West Virginia",
+    "species": [
+      "Greererpeton"
+    ]
+  },
+  {
+    "dig_site": "Navesink Formation",
+    "species": [
+      "Hadrosaurus"
+    ]
+  },
+  {
+    "dig_site": "Phosphoria Formation",
+    "species": [
+      "Helicoprion"
+    ]
+  },
+  {
+    "dig_site": "Kansas",
+    "species": [
+      "Hesperornis",
+      "Ichthyornis"
+    ]
+  },
+  {
+    "dig_site": "Mongolia",
+    "species": [
+      "Homalcocephale",
+      "Prenocephale"
+    ]
+  },
+  {
+    "dig_site": "Wealden Group",
+    "species": [
+      "Hybodus",
+      "Hylaeosaurus",
+      "Iguanodon"
+    ]
+  },
+  {
+    "dig_site": "New Jersey",
+    "species": [
+      "Hypsognathus"
+    ]
+  },
+  {
+    "dig_site": "Lias Formation",
+    "species": [
+      "Ichthyosaurus"
+    ]
+  },
+  {
+    "dig_site": "Kazakhstan",
+    "species": [
+      "Karaurus",
+      "Sordes"
+    ]
+  },
+  {
+    "dig_site": "Ireland",
+    "species": [
+      "Keraterpeton",
+      "Ophiderpeton"
+    ]
+  },
+  {
+    "dig_site": "Texas",
+    "species": [
+      "Labidosaurus",
+      "Ophiacodon",
+      "Pantylus"
+    ]
+  },
+  {
+    "dig_site": "Green River Formation",
+    "species": [
+      "Limnofregata",
+      "Presbyornis"
+    ]
+  },
+  {
+    "dig_site": "Kimmernamege Clay",
+    "species": [
+      "Liopleurodon",
+      "Pliosaurus"
+    ]
+  },
+  {
+    "dig_site": "Kyrgyzstan",
+    "species": [
+      "Longisquama"
+    ]
+  },
+  {
+    "dig_site": "Two Medicine Formation",
+    "species": [
+      "Maiasaura"
+    ]
+  },
+  {
+    "dig_site": "Sichuan Province",
+    "species": [
+      "Mamenchisaurus",
+      "Tuojiangosaurus"
+    ]
+  },
+  {
+    "dig_site": "Lesotho",
+    "species": [
+      "Megazostrodon"
+    ]
+  },
+  {
+    "dig_site": "Whitehill Formation",
+    "species": [
+      "Mesosaurus"
+    ]
+  },
+  {
+    "dig_site": "Meuse River",
+    "species": [
+      "Mosasaurus"
+    ]
+  },
+  {
+    "dig_site": "Wyoming",
+    "species": [
+      "Neocathartes"
+    ]
+  },
+  {
+    "dig_site": "Frontier Formation",
+    "species": [
+      "Nodosaurus"
+    ]
+  },
+  {
+    "dig_site": "Czech Republic",
+    "species": [
+      "Ophiderpeton"
+    ]
+  },
+  {
+    "dig_site": "Lossiemouth Sandstone",
+    "species": [
+      "Ornithosuchus"
+    ]
+  },
+  {
+    "dig_site": "California",
+    "species": [
+      "Osteodontornis",
+      "Plotosaurus"
+    ]
+  },
+  {
+    "dig_site": "Djadochta Formation",
+    "species": [
+      "Oviraptor",
+      "Saurornithoides",
+      "Velociraptor",
+      "Yinlong Downsi",
+      "Zalambdalestes"
+    ]
+  },
+  {
+    "dig_site": "Middle East",
+    "species": [
+      "Pachyrhachis"
+    ]
+  },
+  {
+    "dig_site": "Oshurkovo Formation",
+    "species": [
+      "Pareiasaurus"
+    ]
+  },
+  {
+    "dig_site": "Stanton Formation",
+    "species": [
+      "Petrolacosaurus"
+    ]
+  },
+  {
+    "dig_site": "Norway",
+    "species": [
+      "Pharyngolepis"
+    ]
+  },
+  {
+    "dig_site": "Russia",
+    "species": [
+      "Phthinosuchus",
+      "Scutosaurus"
+    ]
+  },
+  {
+    "dig_site": "Hungary",
+    "species": [
+      "Placochelys"
+    ]
+  },
+  {
+    "dig_site": "Knollenmergel",
+    "species": [
+      "Plateosaurus",
+      "Proganochelys"
+    ]
+  },
+  {
+    "dig_site": "Staffordshire",
+    "species": [
+      "Platysomus"
+    ]
+  },
+  {
+    "dig_site": "Purgatory Hill",
+    "species": [
+      "Purgatorius"
+    ]
+  },
+  {
+    "dig_site": "Javelina Formation",
+    "species": [
+      "Quetzalcoatlus"
+    ]
+  },
+  {
+    "dig_site": "Cumnock Formation",
+    "species": [
+      "Rutiodon"
+    ]
+  },
+  {
+    "dig_site": "T\u00e9n\u00e9r\u00e9 Desert",
+    "species": [
+      "Sarcosuchus"
+    ]
+  },
+  {
+    "dig_site": "Wangshi Formation",
+    "species": [
+      "Shantungosaurus",
+      "Tsintaosaurus"
+    ]
+  },
+  {
+    "dig_site": "Shonisaurus State Park",
+    "species": [
+      "Shonisaurus"
+    ]
+  },
+  {
+    "dig_site": "Dakota Formation",
+    "species": [
+      "Silvisaurus"
+    ]
+  },
+  {
+    "dig_site": "Gosau Group",
+    "species": [
+      "Struthiosaurus"
+    ]
+  },
+  {
+    "dig_site": "Venezuela",
+    "species": [
+      "Stupendemys"
+    ]
+  },
+  {
+    "dig_site": "Estonia",
+    "species": [
+      "Tremataspis"
+    ]
+  }
+]

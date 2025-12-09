@@ -1,0 +1,448 @@
+[
+  {
+    "epoch": "Late Devonian",
+    "species": [
+      "Acanthostega",
+      "Bothriolepis",
+      "Ceratodus",
+      "Cladoselache",
+      "Ctenurella",
+      "Dinichthys",
+      "Dunkleosteus",
+      "Eusthenopteron",
+      "Griphognathus",
+      "Groenlandaspis",
+      "Holoptychius",
+      "Ichthyostega",
+      "Latimeria",
+      "Moythomasia",
+      "Strunius"
+    ]
+  },
+  {
+    "epoch": "Early Cretaceous",
+    "species": [
+      "Acrocanthosaurus",
+      "Baryonyx",
+      "Bernissartia",
+      "Carcharodontosaurus",
+      "Cearadactylus",
+      "Deinonychus",
+      "Dsungaripterus",
+      "Echinodon",
+      "Euhelopus",
+      "Giganotosaurus",
+      "Hybodus",
+      "Hylaeosaurus",
+      "Hypsilophodon",
+      "Iguanodon",
+      "Ischyodus",
+      "Kronosaurus",
+      "Pachyrhachis",
+      "Polacanthus",
+      "Pterodaustro",
+      "Sarcosuchus",
+      "Sauropelta",
+      "Scapanorhynchus",
+      "Silvisaurus",
+      "Spinosaurus",
+      "Tenontosaurus",
+      "Wuerhosaurus"
+    ]
+  },
+  {
+    "epoch": "Pleistocene",
+    "species": [
+      "Aepyornis",
+      "Dinornis",
+      "Emeus",
+      "Great Auk",
+      "Harpagornis",
+      "Megalania"
+    ]
+  },
+  {
+    "epoch": "Late Cretaceous",
+    "species": [
+      "Alamosaurus",
+      "Albertosaurus",
+      "Alioramus",
+      "Alphadon",
+      "Ankylosaurus",
+      "Archelon",
+      "Argentinosaurus",
+      "Bactrosaurus",
+      "Centrosaurus",
+      "Chasmosaurus",
+      "Corythosaurus",
+      "Crusafontia",
+      "Daspletosaurus",
+      "Deinosuchus",
+      "Dromaeosaurus",
+      "Dromiceiomimus",
+      "Edmontosaurus",
+      "Elasmosaurus",
+      "Euoplocephalus",
+      "Gallimimus",
+      "Hadrosaurus",
+      "Hesperornis",
+      "Homalcocephale",
+      "Hypacrosaurus",
+      "Ichthyornis",
+      "Kritosaurus",
+      "Lambeosaurus",
+      "Macropoma",
+      "Maiasaura",
+      "Mosasaurus",
+      "Nodosaurus",
+      "Opisthocoelicaudia",
+      "Ornithomimus",
+      "Oviraptor",
+      "Pachycephalosaurus",
+      "Pachyrhinosaurus",
+      "Panoplosaurus",
+      "Parasaurolophus",
+      "Platecarpus",
+      "Plotosaurus",
+      "Prenocephale",
+      "Prosaurolophus",
+      "Protostega",
+      "Pteranodon",
+      "Purgatorius",
+      "Quetzalcoatlus",
+      "Saichania",
+      "Saltasaurus",
+      "Saurolophus",
+      "Saurornithoides",
+      "Saurornitholestes",
+      "Shantungosaurus",
+      "Stegoceras",
+      "Stenonychosaurus",
+      "Struthiosaurus",
+      "Styracosaurus",
+      "Talarurus",
+      "Tarbosaurus",
+      "Thescelosaurus",
+      "Torosaurus",
+      "Triceratops",
+      "Tsintaosaurus",
+      "Tyrannosaurus",
+      "Velociraptor",
+      "Yinlong Downsi",
+      "Zalambdalestes"
+    ]
+  },
+  {
+    "epoch": "Late Jurassic",
+    "species": [
+      "Allosaurus",
+      "Amphicoelias",
+      "Anurognathus",
+      "Apatosaurus",
+      "Ardeosaurus",
+      "Aspidorhynchus",
+      "Brachiosaurus",
+      "Camarasaurus",
+      "Camptosaurus",
+      "Ceratosaurus",
+      "Coelurus",
+      "Compsognathus",
+      "Cryptocleidus",
+      "Dicraeosaurus",
+      "Diplodocus",
+      "Dryosaurus",
+      "Elaphrosaurus",
+      "Karaurus",
+      "Kentrosaurus",
+      "Leptolepis",
+      "Liopleurodon",
+      "Mamenchisaurus",
+      "Ophthalmosaurus",
+      "Ornitholestes",
+      "Pleurosaurus",
+      "Pliosaurus",
+      "Pterodactylus",
+      "Pycnodus",
+      "Rhamphorhynchus",
+      "Scaphognathus",
+      "Sordes",
+      "Spathobatis",
+      "Stegosaurus",
+      "Supersaurus",
+      "Tuojiangosaurus"
+    ]
+  },
+  {
+    "epoch": "Early Jurassic",
+    "species": [
+      "Anchisaurus",
+      "Archaeopteryx",
+      "Barapasaurus",
+      "Dilophosaurus",
+      "Dimorphodon",
+      "Eurhinosaurus",
+      "Heterodontosaurus",
+      "Ichthyosaurus",
+      "Lesothosaurus",
+      "Macroplata",
+      "Massospondylus",
+      "Megazostrodon",
+      "Oligokyphus",
+      "Plesiosaurus",
+      "Protosuchus",
+      "Scutellosaurus",
+      "Stenopterygius",
+      "Temnodontosaurus",
+      "Vieraella"
+    ]
+  },
+  {
+    "epoch": "Early Permian",
+    "species": [
+      "Araeoscelis",
+      "Cacops",
+      "Casea",
+      "Cobelodus",
+      "Cotylorhynchus",
+      "Cyclurus",
+      "Dimetrodon",
+      "Diplocaulus",
+      "Eryops",
+      "Helicoprion",
+      "Labidosaurus",
+      "Lycaenops",
+      "Mesosaurus",
+      "Moschops",
+      "Pantylus",
+      "Platyhystrix",
+      "Seymouria",
+      "Sphenacodon",
+      "Titanosuchus",
+      "Varanosaurus",
+      "Xenacanthus"
+    ]
+  },
+  {
+    "epoch": "Early Ordovician",
+    "species": [
+      "Arandaspis"
+    ]
+  },
+  {
+    "epoch": "Early Carboniferous",
+    "species": [
+      "Archaeothyris",
+      "Canobius",
+      "Crassigyrinus",
+      "Deltoptychius",
+      "Edaphosaurus",
+      "Greererpeton",
+      "Hylonomus",
+      "Ophiacodon",
+      "Platysomus",
+      "Stethacanthus",
+      "Tristychius"
+    ]
+  },
+  {
+    "epoch": "Late Permian",
+    "species": [
+      "Arctops",
+      "Claudiosaurus",
+      "Coelurosauravus",
+      "Dicynodon",
+      "Elginia",
+      "Hovasaurus",
+      "Lystrosaurus",
+      "Milleretta",
+      "Palaeoniscum",
+      "Pareiasaurus",
+      "Peltobatrachus",
+      "Phthinosuchus",
+      "Procynosuchus",
+      "Protorosaurus",
+      "Robertia",
+      "Scutosaurus",
+      "Thadeosaurus"
+    ]
+  },
+  {
+    "epoch": "Late Miocene",
+    "species": [
+      "Argentavis",
+      "Dodo",
+      "Osteodontornis"
+    ]
+  },
+  {
+    "epoch": "Middle Triassic",
+    "species": [
+      "Askeptosaurus",
+      "Ceresiosaurus",
+      "Cymbospondylus",
+      "Gracilisuchus",
+      "Lagosuchus",
+      "Lariosaurus",
+      "Massetognathus",
+      "Mixosaurus",
+      "Nothosaurus",
+      "Paracyclotosaurus",
+      "Perleidus",
+      "Pistosaurus",
+      "Placochelys",
+      "Placodus",
+      "Ticinosuchus"
+    ]
+  },
+  {
+    "epoch": "Early Devonian",
+    "species": [
+      "Boreaspis",
+      "Cephalaspis",
+      "Dipnorhynchus",
+      "Doryaspis",
+      "Drepanaspis",
+      "Gemuendina",
+      "Ischnacanthus",
+      "Pteraspis"
+    ]
+  },
+  {
+    "epoch": "Middle Jurassic",
+    "species": [
+      "Cetiosaurus",
+      "Eustreptospondylus",
+      "Megalosaurus",
+      "Metriorhynchus",
+      "Muraenosaurus",
+      "Peloneustes",
+      "Teleosaurus"
+    ]
+  },
+  {
+    "epoch": "Paleocene",
+    "species": [
+      "Champsosaurus",
+      "Palaeotrionyx",
+      "Presbyornis",
+      "Ptilodus"
+    ]
+  },
+  {
+    "epoch": "Early Triassic",
+    "species": [
+      "Chasmatosaurus",
+      "Cynognathus",
+      "Ericiolacerta",
+      "Erythrosuchus",
+      "Euparkeria",
+      "Kannemeyeria",
+      "Longisquama",
+      "Proterosuchus",
+      "Pteronisculus",
+      "Saurichthys",
+      "Thrinaxodon",
+      "Triadobatrachus"
+    ]
+  },
+  {
+    "epoch": "Middle Devonian",
+    "species": [
+      "Cheirolepis",
+      "Coccosteus",
+      "Dipterus",
+      "Gyroptychius",
+      "Osteolepis",
+      "Palaeospondylus"
+    ]
+  },
+  {
+    "epoch": "Late Silurian",
+    "species": [
+      "Climatius",
+      "Dartmuthia",
+      "Hemicyclaspis",
+      "Jamoytius",
+      "Pharyngolepis",
+      "Thelodus",
+      "Tremataspis"
+    ]
+  },
+  {
+    "epoch": "Late Triassic",
+    "species": [
+      "Coelophysis",
+      "Dapedium",
+      "Desmatosuchus",
+      "Efraasia",
+      "Eudimorphodon",
+      "Gerrothorax",
+      "Haramiyia",
+      "Henodus",
+      "Hyperodapedon",
+      "Hypsognathus",
+      "Kuehneosaurus",
+      "Mussaurus",
+      "Ornithosuchus",
+      "Pisanosaurus",
+      "Planocephalosaurus",
+      "Plateosaurus",
+      "Postosuchus",
+      "Procompsognathus",
+      "Proganochelys",
+      "Riojasaurus",
+      "Rutiodon",
+      "Saltopus",
+      "Shonisaurus",
+      "Stagonolepis",
+      "Tanystropheus",
+      "Teratosaurus",
+      "Terrestrisuchus",
+      "Thecodontosaurus"
+    ]
+  },
+  {
+    "epoch": "Early Eocene",
+    "species": [
+      "Diatryma"
+    ]
+  },
+  {
+    "epoch": "Late Carboniferous",
+    "species": [
+      "Eogyrinus",
+      "Keraterpeton",
+      "Ophiderpeton",
+      "Petrolacosaurus"
+    ]
+  },
+  {
+    "epoch": "Late Eocene",
+    "species": [
+      "Limnofregata",
+      "Neocathartes"
+    ]
+  },
+  {
+    "epoch": "Early Oligocene",
+    "species": [
+      "Meiolania",
+      "Palaeobatrachus",
+      "Phorusrhacus",
+      "Testudo"
+    ]
+  },
+  {
+    "epoch": "Early Miocene",
+    "species": [
+      "Palaelodus",
+      "Stupendemys"
+    ]
+  },
+  {
+    "epoch": "Middle Eocene",
+    "species": [
+      "Pristichampsus"
+    ]
+  }
+]
