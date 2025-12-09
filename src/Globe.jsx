@@ -32,6 +32,9 @@ const Globe = ({ locationsData, regions, currentRegionIndex, geoData, onSelectRe
     const [translateOffset, setTranslateOffset] = useState([0, 0]);
     const [initialAnimationDone, setInitialAnimationDone] = useState(false);
     const drawGlobeRef = useRef();
+    
+    // Memoize graticule to avoid re-creation
+    const graticule = useMemo(() => d3.geoGraticule10(), []);
 
     // Stabilize complex props that might be re-created on each render by the parent.
     // This prevents infinite loops in useEffect hooks by creating a stable reference.
@@ -94,7 +97,6 @@ const Globe = ({ locationsData, regions, currentRegionIndex, geoData, onSelectRe
         context.fill();
 
         // Graticule
-        const graticule = d3.geoGraticule10();
         context.beginPath();
         path(graticule);
         context.strokeStyle = 'rgba(119, 119, 119, 0.2)';
@@ -102,18 +104,18 @@ const Globe = ({ locationsData, regions, currentRegionIndex, geoData, onSelectRe
         context.stroke();
 
         // Land
-        if (stableGeoData && stableGeoData.features) {
-            stableGeoData.features.forEach(feature => {
-                context.beginPath();
-                path(feature);
-                context.fillStyle = '#95AB63';
-                context.fill();
-                context.strokeStyle = '#1c2a4f';
-                context.lineWidth = 0.5;
-                context.stroke();
-            });
+        if (stableGeoData) {
+            context.beginPath();
+            // Assuming stableGeoData is a FeatureCollection or GeometryCollection that d3.geoPath can handle directly.
+            // This is significantly faster than iterating over features and drawing them one by one.
+            path(stableGeoData);
+            context.fillStyle = '#95AB63';
+            context.fill();
+            context.strokeStyle = '#1c2a4f';
+            context.lineWidth = 0.5;
+            context.stroke();
         }
-    }, [size, stableGeoData, projection]);
+    }, [size, stableGeoData, projection, graticule]);
     drawGlobeRef.current = drawGlobe;
 
     // Initial globe animation
@@ -325,9 +327,30 @@ const Globe = ({ locationsData, regions, currentRegionIndex, geoData, onSelectRe
                 }
                 
                 const scaleT = d3.easeCubicInOut(Math.min(elapsed / totalDuration, 1));
-                setGlobeScale(scaleInterpolator(scaleT));
+                const newScale = scaleInterpolator(scaleT);
+                setGlobeScale(newScale);
 
                 projection.rotate(interpolator(t));
+
+                // We remove explicit drawGlobeRef.current() here because setGlobeScale triggers a re-render.
+                // The re-render triggers the useEffect that calls drawGlobeRef.current().
+                // However, if newScale is identical to previous scale (which happens at end of animation), 
+                // React might not re-render.
+                // But rotation changes every frame.
+                // If we rely purely on useEffect, we might miss rotation updates if scale doesn't change.
+                // But wait, setGlobeScale is async. The projection.rotate happens synchronously here.
+                // When useEffect runs, it uses the current projection state.
+                
+                // To be safe and ensure smooth rotation even if scale stops changing:
+                // We SHOULD call drawGlobeRef.current().
+                // Optimally, we would suppress the useEffect draw if we draw here.
+                // But removing it is safer than double drawing if the performance is acceptable with batching.
+                // For now, I will keep it but relying on the batching optimization to handle the load.
+                // Actually, let's try to only draw here if we think useEffect won't pick it up?
+                // No, that's complex.
+                
+                // Let's stick to the double draw for now but with optimized drawGlobe.
+                // The previous bottleneck was individual features.
                 drawGlobeRef.current();
 
                 if (!fadeInStarted && elapsed >= fadeInTime) {
@@ -387,6 +410,9 @@ const Globe = ({ locationsData, regions, currentRegionIndex, geoData, onSelectRe
                 <canvas ref={canvasRef} width={size.width} height={size.height} />
                 <svg ref={svgRef} width={size.width} height={size.height} style={{ position: 'absolute', top: 0, left: 0, pointerEvents: 'none' }}>
                     {isProjectionReady && markers.map((marker) => {
+                        // Optimization: if markerScale is 0, don't calculate projection or render
+                        if (markerScale === 0) return null;
+
                         const point = projection(marker.coords);
                         if (!point) return null;
 

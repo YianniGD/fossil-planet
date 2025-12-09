@@ -8,6 +8,20 @@ import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
 
 import { SVGLoader } from 'three/examples/jsm/loaders/SVGLoader.js';
 
+// Throttle utility
+const throttle = (func, limit) => {
+    let inThrottle;
+    return function() {
+        const args = arguments;
+        const context = this;
+        if (!inThrottle) {
+            func.apply(context, args);
+            inThrottle = true;
+            setTimeout(() => inThrottle = false, limit);
+        }
+    }
+};
+
 const Timeline = ({ speciesData, showSpeciesPage }) => {
     const canvasRef = useRef();
     const scrollTargetRef = useRef();
@@ -23,6 +37,10 @@ const Timeline = ({ speciesData, showSpeciesPage }) => {
     const [popover, setPopover] = useState({ visible: false, content: '', x: 0, y: 0 });
     const [timelineData, setTimelineData] = useState(null);
 
+    // Reusable Three.js objects
+    const raycasterRef = useRef(new THREE.Raycaster());
+    const mouseRef = useRef(new THREE.Vector2());
+
     useEffect(() => {
         const loadTimelineData = async () => {
             try {
@@ -36,7 +54,7 @@ const Timeline = ({ speciesData, showSpeciesPage }) => {
         loadTimelineData();
     }, []);
 
-    const handleMouseMove = useCallback((evt) => {
+    const handleMouseMove = useCallback(throttle((evt) => {
         // Camera rotation logic
         if (mathUtilsRef.current) {
             cameraRotationProxyX.current = mathUtilsRef.current.map(evt.clientX, 0, window.innerWidth, 3.24, 3.04);
@@ -44,8 +62,8 @@ const Timeline = ({ speciesData, showSpeciesPage }) => {
         }
 
         // Popover logic
-        const raycaster = new THREE.Raycaster();
-        const mouse = new THREE.Vector2();
+        const raycaster = raycasterRef.current;
+        const mouse = mouseRef.current;
 
         mouse.x = (evt.clientX / window.innerWidth) * 2 - 1;
         mouse.y = -(evt.clientY / window.innerHeight) * 2 + 1;
@@ -53,6 +71,8 @@ const Timeline = ({ speciesData, showSpeciesPage }) => {
         if (cameraRef.current && species3DMarkersRef.current.length > 0) {
             raycaster.setFromCamera(mouse, cameraRef.current);
 
+            // Optimization: Only intersect with species markers if needed. 
+            // Also intersects checking can be expensive, limiting it via throttle helps.
             const intersects = raycaster.intersectObjects(species3DMarkersRef.current.map(m => m.group), true);
 
             if (intersects.length > 0) {
@@ -74,7 +94,7 @@ const Timeline = ({ speciesData, showSpeciesPage }) => {
         
         setPopover(p => p.visible ? { ...p, visible: false } : p);
 
-    }, [speciesData]);
+    }, 50), [speciesData]); // Throttle to run at most every 50ms (20fps for raycasting)
 
     const handleResize = useCallback(() => {
         if (cameraRef.current && rendererRef.current && composerRef.current) {
@@ -89,8 +109,8 @@ const Timeline = ({ speciesData, showSpeciesPage }) => {
 
     const handleCanvasClick = useCallback((event) => {
         console.log("Canvas clicked");
-        const raycaster = new THREE.Raycaster();
-        const mouse = new THREE.Vector2();
+        const raycaster = raycasterRef.current;
+        const mouse = mouseRef.current;
 
         mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
         mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;

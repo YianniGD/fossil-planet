@@ -107,31 +107,7 @@
   object-position: center bottom;
 }
 
-/* Blurred copy used to create a soft falloff/rim around the sharp reveal */
-.xray-specimen-blur {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  object-position: center bottom;
-  pointer-events: none;
-  z-index: 2; 
-  filter: blur(6px) saturate(110%) contrast(100%);
-  opacity: 0;
-  transition: opacity 160ms ease-out;
-  will-change: opacity;
-  user-select: none;
-}
-
 /* When X-Ray is active apply a subtle displacement/distortion to the blurred rim */
-.xray-images.xray-active .xray-specimen-blur {
-  /* apply SVG displacement filter then blur/saturate */
-  filter: url(#xray-distort-filter) blur(6px) saturate(110%) contrast(100%);
-}
 
 /* Glass lens above the skeleton to emulate a magnifying glass / glass plate */
 .xray-lens {

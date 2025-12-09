@@ -88,7 +88,6 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
     const containerRef = useRef(null);
     const skeletonRef = useRef(null);
     const lensRef = useRef(null);
-    const blurRef = useRef(null);
     const lensTimeoutRef = useRef(null);
     const audioRef = useRef(null);
     const userHasInteracted = useRef(false);
@@ -192,13 +191,13 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
                 }
 
                 // Reveal the blurred rim layer and give it a slightly larger radius so the rim shows
-                if (blurRef.current) {
+                /* if (blurRef.current) {
                     // compute numeric px from radius string
                     const rPx = parseInt(radius, 10) || 100;
                     const blurRadius = Math.round(rPx * 1.25);
                     blurRef.current.style.clipPath = `circle(${blurRadius}px at ${x}px ${y}px)`;
                     blurRef.current.style.opacity = '1';
-                }
+                } */
 
                 // Position and size the glass 'lens' overlay (if present)
                 if (lensRef.current) {
@@ -289,9 +288,9 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
                     lensTimeoutRef.current = null;
                 }, EXIT_DURATION + 40);
             }
-            if (blurRef.current) {
+            /* if (blurRef.current) {
                 blurRef.current.style.opacity = '0';
-            }
+            } */
         };
 
         container.addEventListener('mouseleave', handlePointerLeave);
@@ -313,10 +312,10 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
         // Ensure skeleton and blur are hidden at the start of X-ray interaction
         skeletonEl.style.opacity = '0';
         skeletonEl.style.clipPath = 'circle(0% at 50% 50%)';
-        if (blurRef.current) {
+        /* if (blurRef.current) {
             blurRef.current.style.opacity = '0';
             blurRef.current.style.clipPath = 'circle(0% at 50% 50%)';
-        }
+        } */
 
         window.addEventListener('pointerup', handleXRayPointerUp);
 
@@ -464,7 +463,7 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
                         ref={containerRef}
                     >
                         {/* SVG filter for subtle distortion applied to the blurred rim layer */}
-                        <svg width="0" height="0" style={{ position: 'absolute' }} aria-hidden="true">
+                        {/* <svg width="0" height="0" style={{ position: 'absolute' }} aria-hidden="true">
                             <defs>
                                 <filter id="xray-distort-filter" x="-20%" y="-20%" width="140%" height="140%">
                                     <feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="23" result="noise" />
@@ -472,7 +471,7 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
                                     <feDisplacementMap in="SourceGraphic" in2="blurredNoise" scale="18" xChannelSelector="R" yChannelSelector="G" />
                                 </filter>
                             </defs>
-                        </svg>
+                        </svg> */}
 
                         {/* <img
                             src="/images/background.png"
@@ -491,13 +490,13 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
 
                         {localSpecies.image_url && localSpecies.image_url.xray_image && (
                             <>
-                                <img
+                                {/* <img
                                     ref={blurRef}
                                     src={import.meta.env.BASE_URL + localSpecies.image_url.xray_image}
                                     alt={`${localSpecies.name || localSpecies.id} Skeleton (blur)`}
                                     className="xray-specimen-blur"
                                     style={{ width: `${speciesWidth}px` }}
-                                />
+                                /> */}
                                 <img
                                     ref={skeletonRef}
                                     src={import.meta.env.BASE_URL + localSpecies.image_url.xray_image}
