@@ -1,5 +1,5 @@
 .splash-content {
-    background-image: url('/public/ui/slate.svg');
+    background-image: url('/Fossil-Planet/ui/slate.svg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -11,10 +11,11 @@
   .splash-content h2 {
     font-family: 'Grandstander', cursive;
     font-weight: 900;
+    text-align: center;
   }
   
   .splash-content p {
-    font-family: 'Slackey', cursive;
+    font-family: 'Grandstander', cursive;
   }
 
   .mySwiper {
@@ -44,4 +45,19 @@
   .splash-buttons {
     display: flex;
     justify-content: center;
+  }
+  .audio-button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .audio-button img {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .audio-button.playing img {
+    filter: invert(50%);
   }

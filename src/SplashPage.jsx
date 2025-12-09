@@ -4,7 +4,6 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import { Pagination } from 'swiper/modules';
-import { MicrophoneIcon, StopIcon } from '../Icons';
 import bgAnimation from './data/bg.json';
 import './css/SplashPage.css';
 
@@ -19,7 +18,7 @@ const SplashPage = ({ onEnter }) => {
   ];
 
   useEffect(() => {
-    audioRef.current = new Audio('/audio/female_narrator.wav');
+    audioRef.current = new Audio(`${import.meta.env.BASE_URL}audio/female_narrator.wav`);
     audioRef.current.onended = () => {
       setIsPlaying(false);
     };
@@ -78,8 +77,8 @@ const SplashPage = ({ onEnter }) => {
         </Swiper>
         <div className="splash-buttons">
           <button onClick={onEnter} className="start-button">Enter</button>
-          <button onClick={toggleAudio} className="audio-button">
-            {isPlaying ? <StopIcon /> : <MicrophoneIcon />}
+          <button onClick={toggleAudio} className={`audio-button ${isPlaying ? 'playing' : ''}`}>
+            <img src={`${import.meta.env.BASE_URL}ui/volume.svg`} alt="Toggle audio" />
           </button>
         </div>
       </div>

@@ -1,3 +1,34 @@
+@keyframes wobble {
+  0% {
+    transform: rotate(-10.5deg);
+  }
+  50% {
+    transform: rotate(10.5deg);
+  }
+  100% {
+    transform: rotate(-10.5deg);
+  }
+}
+
+.species-page-frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+    overflow: hidden;
+}
+
+.frame-image {
+    height: auto;
+    user-select: none;
+    will-change: transform;
+    width: 100%;
+    animation: wobble 7s ease-in-out infinite;
+}
+
 .image-container {
   display: flex;
   flex-direction: row;

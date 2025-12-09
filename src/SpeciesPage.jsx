@@ -10,6 +10,15 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
     const [localSpecies, setLocalSpecies] = useState(species);
     const [phrases, setPhrases] = useState({});
 
+    const frameImages = [
+        { src: 'leaves_1.webp', style: { top: '2vh', left: '-0.5vw', width: '6.25vw', transform: 'rotate(-25deg)', opacity: 0.7 } },
+        { src: 'leaves_2.webp', style: { top: '50vh', left: '-1.25vw', width: '7.5vw', transform: 'rotate(10deg)', opacity: 0.6 } },
+        { src: 'leaves_3.webp', style: { bottom: '2vh', left: '5vw', width: '5vw' , transform: 'rotate(5deg)', opacity: 0.7} },
+        { src: 'leaves_4.webp', style: { top: '5vh', right: '-0.75vw', width: '7vw', transform: 'rotate(20deg)', opacity: 0.6 } },
+        { src: 'leaves_5.webp', style: { top: '45vh', right: '-1vw', width: '6.25vw', transform: 'rotate(-5deg)', opacity: 0.7} },
+        { src: 'leaves_6.webp', style: { bottom: '5vh', right: '2vw', width: '5.5vw', transform: 'rotate(15deg)', opacity: 0.6} },
+    ];
+
     useEffect(() => {
         if (!localSpecies && allSpecies && allSpecies.length > 0) {
             const foundSpecies = allSpecies.find(s => s.id === speciesId);
@@ -368,6 +377,18 @@ const SpeciesPage = ({ species, allSpecies, showDigSitePage, locationsData }) =>
             backgroundSize: 'cover',
             backgroundPosition: 'center',
         }}>
+        <div className="species-page-frame">
+                {frameImages.map((img, index) => (
+                    <div key={index} style={{ position: 'absolute', ...img.style }}>
+                        <img
+                            src={`${import.meta.env.BASE_URL}images/Elements/${img.src}`}
+                            alt=""
+                            className="frame-image"
+                            style={{ animationDelay: `${Math.random() * -8}s` }}
+                        />
+                    </div>
+                ))}
+            </div>
             <div style={{ textAlign: 'right' }}>
                 <h1>{localSpecies.id}</h1>
                 {localSpecies.phonetic_spelling && <h2 style={{ fontStyle: 'italic', marginTop: '-10px' }}>{localSpecies.phonetic_spelling}</h2>}
